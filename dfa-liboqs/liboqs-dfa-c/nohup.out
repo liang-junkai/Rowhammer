@@ -1,0 +1,5098 @@
+Starting program...
+0
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 0
+Target PFN: 0x37372d
+bit flip:30660
+i:0,j0
+Target: 2
+Target PFN: 0x287f65
+bit flip:30423
+i:2,j1
+Target: 7
+Target PFN: 0x26526b
+bit flip:31412
+i:7,j2
+Target: 9
+Target PFN: 0x2d8454
+bit flip:32361
+i:9,j3
+Target: 10
+Target PFN: 0x1fd44b
+bit flip:30798
+i:10,j4
+Target: 19
+Target PFN: 0x230549
+bit flip:32398
+i:19,j5
+Target: 20
+Target PFN: 0x28604e
+bit flip:30861
+i:20,j6
+Target: 23
+Target PFN: 0x2a2f3c
+bit flip:30801
+i:23,j7
+Target: 27
+Target PFN: 0x1ff8c0
+bit flip:30889
+i:27,j8
+Target: 29
+Target PFN: 0x1ff8d2
+bit flip:32614
+i:29,j9
+Target: 30
+Target PFN: 0x1ff8d3
+bit flip:30673
+i:30,j10
+Target: 31
+Target PFN: 0x3d7b3b
+bit flip:32662
+i:31,j11
+Target: 33
+Target PFN: 0x3a73a4
+bit flip:30108
+i:33,j12
+Target: 36
+Target PFN: 0x3b754e
+bit flip:30318
+i:36,j13
+Target: 39
+Target PFN: 0x36726b
+bit flip:32383
+i:39,j14
+Target: 40
+Target PFN: 0x26918a
+bit flip:30829
+i:40,j15
+Target: 43
+Target PFN: 0x388500
+bit flip:31776
+i:43,j16
+Target: 44
+Target PFN: 0x388501
+bit flip:31018
+i:44,j17
+Target: 45
+Target PFN: 0x3da940
+bit flip:32694
+i:45,j18
+Target: 46
+Target PFN: 0x3da956
+bit flip:32224
+i:46,j19
+Target: 47
+Target PFN: 0x33122e
+bit flip:32549
+i:47,j20
+Target: 48
+Target PFN: 0x3e86e4
+bit flip:31773
+i:48,j21
+Target: 50
+Target PFN: 0x3ca18f
+bit flip:30003
+i:50,j22
+Target: 51
+Target PFN: 0x3584d3
+bit flip:32579
+i:51,j23
+Target: 55
+Target PFN: 0x28f1c0
+bit flip:31349
+i:55,j24
+Target: 57
+Target PFN: 0x2493a0
+bit flip:31114
+i:57,j25
+Target: 61
+Target PFN: 0x3cf98c
+bit flip:32630
+i:61,j26
+Target: 64
+Target PFN: 0x22e88b
+bit flip:32309
+i:64,j27
+Target: 65
+Target PFN: 0x37c72f
+bit flip:30834
+i:65,j28
+Target: 68
+Target PFN: 0x3aaa6c
+bit flip:31560
+i:68,j29
+Target: 69
+Target PFN: 0x3aaa70
+bit flip:30545
+i:69,j30
+Target: 70
+Target PFN: 0x2a47f9
+bit flip:30007
+i:70,j31
+Target: 71
+Target PFN: 0x411cdd
+bit flip:30829
+i:71,j32
+Target: 82
+Target PFN: 0x2d5338
+bit flip:32677
+i:82,j33
+Target: 84
+Target PFN: 0x3ac88c
+bit flip:30952
+i:84,j34
+Target: 87
+Target PFN: 0x34a228
+bit flip:32723
+i:87,j35
+Target: 91
+Target PFN: 0x2dd766
+bit flip:32458
+i:91,j36
+Target: 92
+Target PFN: 0x2dd773
+bit flip:30061
+i:92,j37
+Target: 95
+Target PFN: 0x4195c9
+bit flip:32565
+i:95,j38
+Target: 96
+Target PFN: 0x4195ca
+bit flip:30801
+i:96,j39
+Target: 117
+Target PFN: 0x2e07be
+bit flip:32498
+i:117,j40
+Target: 118
+Target PFN: 0x30d958
+bit flip:30984
+i:118,j41
+Target: 119
+Target PFN: 0x30d95a
+bit flip:31701
+i:119,j42
+Target: 124
+Target PFN: 0x384942
+bit flip:32490
+i:124,j43
+Target: 125
+Target PFN: 0x221be2
+bit flip:31161
+i:125,j44
+Target: 126
+Target PFN: 0x2b0bbb
+bit flip:30218
+i:126,j45
+Target: 127
+Target PFN: 0x2ee23f
+bit flip:32548
+i:127,j46
+Target: 128
+Target PFN: 0x2da804
+bit flip:31114
+i:128,j47
+Target: 129
+Target PFN: 0x28a6bf
+bit flip:31295
+i:129,j48
+Target: 131
+Target PFN: 0x2282b8
+bit flip:31094
+i:131,j49
+Target: 134
+Target PFN: 0x29e4d4
+bit flip:32448
+i:134,j50
+Target: 136
+Target PFN: 0x29e4dd
+bit flip:32435
+i:136,j51
+Target: 138
+Target PFN: 0x35c2ed
+bit flip:31218
+i:138,j52
+Target: 141
+Target PFN: 0x383220
+bit flip:30804
+i:141,j53
+Target: 142
+Target PFN: 0x3ae378
+bit flip:32409
+i:142,j54
+Target: 146
+Target PFN: 0x406547
+bit flip:30280
+i:146,j55
+Target: 147
+Target PFN: 0x406548
+bit flip:30001
+i:147,j56
+Target: 152
+Target PFN: 0x414f31
+bit flip:32110
+i:152,j57
+Target: 153
+Target PFN: 0x414f33
+bit flip:30656
+i:153,j58
+Target: 156
+Target PFN: 0x25c55d
+bit flip:32404
+i:156,j59
+Target: 160
+Target PFN: 0x2039c4
+bit flip:32750
+i:160,j60
+Target: 161
+Target PFN: 0x2039cf
+bit flip:32593
+i:161,j61
+Target: 162
+Target PFN: 0x2039c8
+bit flip:32482
+i:162,j62
+Target: 178
+Target PFN: 0x404269
+bit flip:30119
+i:178,j63
+Target: 179
+Target PFN: 0x40426b
+bit flip:30652
+i:179,j64
+Target: 181
+Target PFN: 0x3e02af
+bit flip:32689
+i:181,j65
+Target: 185
+Target PFN: 0x41b769
+bit flip:32714
+i:185,j66
+Target: 199
+Target PFN: 0x433d4c
+bit flip:30730
+i:199,j67
+Target: 206
+Target PFN: 0x287d46
+bit flip:31980
+i:206,j68
+Target: 211
+Target PFN: 0x2ea9d4
+bit flip:31486
+i:211,j69
+Target: 212
+Target PFN: 0x2ea9d7
+bit flip:31962
+i:212,j70
+Target: 216
+Target PFN: 0x27362a
+bit flip:31957
+i:216,j71
+Target: 217
+Target PFN: 0x396a3d
+bit flip:29955
+i:217,j72
+Target: 218
+Target PFN: 0x396a3e
+bit flip:30359
+i:218,j73
+Target: 219
+Target PFN: 0x396a3f
+bit flip:30369
+i:219,j74
+Target: 222
+Target PFN: 0x39e2ae
+bit flip:32363
+i:222,j75
+Target: 224
+Target PFN: 0x312905
+bit flip:31975
+i:224,j76
+Target: 225
+Target PFN: 0x22b80f
+bit flip:32398
+i:225,j77
+Target: 227
+Target PFN: 0x36063b
+bit flip:32150
+i:227,j78
+Target: 233
+Target PFN: 0x204885
+bit flip:31715
+i:233,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x3aaa70
+hammer!
+fpip addr: c 0x7fb4a44a5ae0 size: 1024
+s addr: 0x3f5521
+c addr: 0x7fb4a44a5ae0
+PFN:0x3aaa70
+send kill -15
+send kill -15
+finish munmaping
+Starting program...
+3107
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 1
+Target PFN: 0x12e9db
+bit flip:31137
+i:1,j0
+Target: 2
+Target PFN: 0x12eae5
+bit flip:30423
+i:2,j1
+Target: 3
+Target PFN: 0x12eb3c
+bit flip:32054
+i:3,j2
+Target: 4
+Target PFN: 0x12eb23
+bit flip:31764
+i:4,j3
+Target: 5
+Target PFN: 0x12ebe9
+bit flip:32261
+i:5,j4
+Target: 6
+Target PFN: 0x12ebfe
+bit flip:32736
+i:6,j5
+Target: 7
+Target PFN: 0x12ec04
+bit flip:31412
+i:7,j6
+Target: 8
+Target PFN: 0x12ecc6
+bit flip:30349
+i:8,j7
+Target: 9
+Target PFN: 0x12ecdc
+bit flip:32361
+i:9,j8
+Target: 12
+Target PFN: 0x12edc8
+bit flip:30768
+i:12,j9
+Target: 19
+Target PFN: 0x12eef8
+bit flip:32398
+i:19,j10
+Target: 20
+Target PFN: 0x12ef66
+bit flip:30861
+i:20,j11
+Target: 21
+Target PFN: 0x12f005
+bit flip:30958
+i:21,j12
+Target: 22
+Target PFN: 0x12f000
+bit flip:30058
+i:22,j13
+Target: 25
+Target PFN: 0x12f155
+bit flip:32425
+i:25,j14
+Target: 26
+Target PFN: 0x12f191
+bit flip:30543
+i:26,j15
+Target: 27
+Target PFN: 0x12f1c8
+bit flip:30889
+i:27,j16
+Target: 28
+Target PFN: 0x12f22c
+bit flip:29991
+i:28,j17
+Target: 31
+Target PFN: 0x12f3b1
+bit flip:32662
+i:31,j18
+Target: 144
+Target PFN: 0x13a729
+bit flip:32545
+i:144,j19
+Target: 145
+Target PFN: 0x13a72a
+bit flip:30881
+i:145,j20
+Target: 146
+Target PFN: 0x13c454
+bit flip:30280
+i:146,j21
+Target: 147
+Target PFN: 0x13c500
+bit flip:30001
+i:147,j22
+Target: 150
+Target PFN: 0x13c622
+bit flip:30945
+i:150,j23
+Target: 174
+Target PFN: 0x13e442
+bit flip:32355
+i:174,j24
+Target: 175
+Target PFN: 0x13e488
+bit flip:31688
+i:175,j25
+Target: 196
+Target PFN: 0x13eead
+bit flip:30545
+i:196,j26
+Target: 211
+Target PFN: 0x13f8c7
+bit flip:31486
+i:211,j27
+Target: 217
+Target PFN: 0x13fb6d
+bit flip:29955
+i:217,j28
+Target: 237
+Target PFN: 0x140904
+bit flip:32149
+i:237,j29
+Target: 241
+Target PFN: 0x140f2e
+bit flip:30455
+i:241,j30
+Target: 250
+Target PFN: 0x141274
+bit flip:32268
+i:250,j31
+Target: 251
+Target PFN: 0x141279
+bit flip:30155
+i:251,j32
+Target: 252
+Target PFN: 0x14133a
+bit flip:32665
+i:252,j33
+Target: 253
+Target PFN: 0x14137a
+bit flip:31200
+i:253,j34
+Target: 254
+Target PFN: 0x1413a6
+bit flip:30130
+i:254,j35
+Target: 255
+Target PFN: 0x1413b0
+bit flip:31283
+i:255,j36
+Target: 256
+Target PFN: 0x141484
+bit flip:32590
+i:256,j37
+Target: 257
+Target PFN: 0x141508
+bit flip:30388
+i:257,j38
+Target: 258
+Target PFN: 0x141551
+bit flip:32320
+i:258,j39
+Target: 259
+Target PFN: 0x14158c
+bit flip:32705
+i:259,j40
+Target: 260
+Target PFN: 0x14158d
+bit flip:31317
+i:260,j41
+Target: 261
+Target PFN: 0x14158e
+bit flip:31233
+i:261,j42
+Target: 262
+Target PFN: 0x141599
+bit flip:32608
+i:262,j43
+Target: 263
+Target PFN: 0x1415da
+bit flip:31826
+i:263,j44
+Target: 265
+Target PFN: 0x1416bf
+bit flip:32202
+i:265,j45
+Target: 266
+Target PFN: 0x141729
+bit flip:32469
+i:266,j46
+Target: 267
+Target PFN: 0x1417a9
+bit flip:31843
+i:267,j47
+Target: 268
+Target PFN: 0x1417b1
+bit flip:31458
+i:268,j48
+Target: 269
+Target PFN: 0x141813
+bit flip:30604
+i:269,j49
+Target: 270
+Target PFN: 0x141811
+bit flip:30117
+i:270,j50
+Target: 271
+Target PFN: 0x141856
+bit flip:32696
+i:271,j51
+Target: 272
+Target PFN: 0x14190b
+bit flip:30710
+i:272,j52
+Target: 274
+Target PFN: 0x141af8
+bit flip:32523
+i:274,j53
+Target: 275
+Target PFN: 0x141afb
+bit flip:32596
+i:275,j54
+Target: 276
+Target PFN: 0x141c47
+bit flip:30140
+i:276,j55
+Target: 277
+Target PFN: 0x141c80
+bit flip:31472
+i:277,j56
+Target: 278
+Target PFN: 0x141d9e
+bit flip:32672
+i:278,j57
+Target: 279
+Target PFN: 0x141d9f
+bit flip:31389
+i:279,j58
+Target: 280
+Target PFN: 0x141d92
+bit flip:30693
+i:280,j59
+Target: 281
+Target PFN: 0x141dd2
+bit flip:32425
+i:281,j60
+Target: 282
+Target PFN: 0x141e63
+bit flip:31978
+i:282,j61
+Target: 304
+Target PFN: 0x1425c8
+bit flip:32656
+i:304,j62
+Target: 307
+Target PFN: 0x1426ad
+bit flip:32688
+i:307,j63
+Target: 308
+Target PFN: 0x1426e1
+bit flip:32275
+i:308,j64
+Target: 309
+Target PFN: 0x1426e2
+bit flip:31863
+i:309,j65
+Target: 312
+Target PFN: 0x142bb8
+bit flip:32419
+i:312,j66
+Target: 313
+Target PFN: 0x144266
+bit flip:31871
+i:313,j67
+Target: 315
+Target PFN: 0x1442a9
+bit flip:32294
+i:315,j68
+Target: 316
+Target PFN: 0x1442aa
+bit flip:30345
+i:316,j69
+Target: 317
+Target PFN: 0x144336
+bit flip:32380
+i:317,j70
+Target: 318
+Target PFN: 0x14436b
+bit flip:31761
+i:318,j71
+Target: 320
+Target PFN: 0x1443b7
+bit flip:31056
+i:320,j72
+Target: 336
+Target PFN: 0x1d5054
+bit flip:32340
+i:336,j73
+Target: 337
+Target PFN: 0x1d5104
+bit flip:30954
+i:337,j74
+Target: 339
+Target PFN: 0x1d522a
+bit flip:30207
+i:339,j75
+Target: 343
+Target PFN: 0x1d53a3
+bit flip:30373
+i:343,j76
+Target: 344
+Target PFN: 0x1d53b4
+bit flip:31121
+i:344,j77
+Target: 345
+Target PFN: 0x1d53b6
+bit flip:32592
+i:345,j78
+Target: 349
+Target PFN: 0x1d558d
+bit flip:30997
+i:349,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x141274
+hammer!
+fpip addr: c 0x7fca39ea5ae0 size: 1024
+s addr: 0x2811cb
+c addr: 0x7fca39ea5ae0
+PFN:0x141274
+send kill -15
+send kill -15
+finish munmaping
+Starting program...
+1011
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 0
+Target PFN: 0x127268
+bit flip:30660
+i:0,j0
+Target: 1
+Target PFN: 0x127276
+bit flip:31137
+i:1,j1
+Target: 2
+Target PFN: 0x12727f
+bit flip:30423
+i:2,j2
+Target: 3
+Target PFN: 0x12748b
+bit flip:32054
+i:3,j3
+Target: 4
+Target PFN: 0x12749e
+bit flip:31764
+i:4,j4
+Target: 5
+Target PFN: 0x12758f
+bit flip:32261
+i:5,j5
+Target: 6
+Target PFN: 0x1275cb
+bit flip:32736
+i:6,j6
+Target: 7
+Target PFN: 0x1275d1
+bit flip:31412
+i:7,j7
+Target: 8
+Target PFN: 0x127674
+bit flip:30349
+i:8,j8
+Target: 10
+Target PFN: 0x1276b2
+bit flip:30798
+i:10,j9
+Target: 11
+Target PFN: 0x1276fc
+bit flip:32507
+i:11,j10
+Target: 12
+Target PFN: 0x127728
+bit flip:30768
+i:12,j11
+Target: 13
+Target PFN: 0x127722
+bit flip:31119
+i:13,j12
+Target: 14
+Target PFN: 0x1277e8
+bit flip:31346
+i:14,j13
+Target: 15
+Target PFN: 0x127816
+bit flip:30698
+i:15,j14
+Target: 17
+Target PFN: 0x127915
+bit flip:30028
+i:17,j15
+Target: 19
+Target PFN: 0x127983
+bit flip:32398
+i:19,j16
+Target: 20
+Target PFN: 0x127a77
+bit flip:30861
+i:20,j17
+Target: 21
+Target PFN: 0x127aa7
+bit flip:30958
+i:21,j18
+Target: 22
+Target PFN: 0x127b24
+bit flip:30058
+i:22,j19
+Target: 23
+Target PFN: 0x127be6
+bit flip:30801
+i:23,j20
+Target: 24
+Target PFN: 0x127cc6
+bit flip:32647
+i:24,j21
+Target: 26
+Target PFN: 0x127d59
+bit flip:30543
+i:26,j22
+Target: 27
+Target PFN: 0x127ea8
+bit flip:30889
+i:27,j23
+Target: 28
+Target PFN: 0x12811a
+bit flip:29991
+i:28,j24
+Target: 29
+Target PFN: 0x128198
+bit flip:32614
+i:29,j25
+Target: 30
+Target PFN: 0x128408
+bit flip:30673
+i:30,j26
+Target: 31
+Target PFN: 0x128496
+bit flip:32662
+i:31,j27
+Target: 33
+Target PFN: 0x1284d8
+bit flip:30108
+i:33,j28
+Target: 34
+Target PFN: 0x1285d2
+bit flip:32073
+i:34,j29
+Target: 35
+Target PFN: 0x1285d3
+bit flip:32055
+i:35,j30
+Target: 36
+Target PFN: 0x128671
+bit flip:30318
+i:36,j31
+Target: 37
+Target PFN: 0x128722
+bit flip:32701
+i:37,j32
+Target: 38
+Target PFN: 0x128803
+bit flip:32455
+i:38,j33
+Target: 39
+Target PFN: 0x128850
+bit flip:32383
+i:39,j34
+Target: 40
+Target PFN: 0x128882
+bit flip:30829
+i:40,j35
+Target: 41
+Target PFN: 0x128995
+bit flip:31015
+i:41,j36
+Target: 42
+Target PFN: 0x128aa7
+bit flip:30765
+i:42,j37
+Target: 43
+Target PFN: 0x128abd
+bit flip:31776
+i:43,j38
+Target: 44
+Target PFN: 0x128bba
+bit flip:31018
+i:44,j39
+Target: 45
+Target PFN: 0x128c0b
+bit flip:32694
+i:45,j40
+Target: 46
+Target PFN: 0x128cc0
+bit flip:32224
+i:46,j41
+Target: 47
+Target PFN: 0x128cc8
+bit flip:32549
+i:47,j42
+Target: 48
+Target PFN: 0x128d14
+bit flip:31773
+i:48,j43
+Target: 49
+Target PFN: 0x128d47
+bit flip:32656
+i:49,j44
+Target: 50
+Target PFN: 0x128d9a
+bit flip:30003
+i:50,j45
+Target: 51
+Target PFN: 0x128ddf
+bit flip:32579
+i:51,j46
+Target: 52
+Target PFN: 0x128e20
+bit flip:32463
+i:52,j47
+Target: 53
+Target PFN: 0x128f3c
+bit flip:30860
+i:53,j48
+Target: 54
+Target PFN: 0x128f3f
+bit flip:32653
+i:54,j49
+Target: 55
+Target PFN: 0x128ff1
+bit flip:31349
+i:55,j50
+Target: 56
+Target PFN: 0x129010
+bit flip:32398
+i:56,j51
+Target: 57
+Target PFN: 0x129141
+bit flip:31114
+i:57,j52
+Target: 58
+Target PFN: 0x129142
+bit flip:32133
+i:58,j53
+Target: 59
+Target PFN: 0x12918f
+bit flip:31128
+i:59,j54
+Target: 60
+Target PFN: 0x1291c8
+bit flip:30707
+i:60,j55
+Target: 61
+Target PFN: 0x1291c9
+bit flip:32630
+i:61,j56
+Target: 62
+Target PFN: 0x1291d8
+bit flip:32750
+i:62,j57
+Target: 63
+Target PFN: 0x129230
+bit flip:31443
+i:63,j58
+Target: 64
+Target PFN: 0x129232
+bit flip:32309
+i:64,j59
+Target: 65
+Target PFN: 0x1292ad
+bit flip:30834
+i:65,j60
+Target: 66
+Target PFN: 0x1292ac
+bit flip:31716
+i:66,j61
+Target: 67
+Target PFN: 0x1292eb
+bit flip:32579
+i:67,j62
+Target: 68
+Target PFN: 0x129408
+bit flip:31560
+i:68,j63
+Target: 69
+Target PFN: 0x12949e
+bit flip:30545
+i:69,j64
+Target: 70
+Target PFN: 0x12949d
+bit flip:30007
+i:70,j65
+Target: 71
+Target PFN: 0x129495
+bit flip:30829
+i:71,j66
+Target: 74
+Target PFN: 0x129588
+bit flip:31983
+i:74,j67
+Target: 75
+Target PFN: 0x129592
+bit flip:30611
+i:75,j68
+Target: 76
+Target PFN: 0x1296a9
+bit flip:29979
+i:76,j69
+Target: 77
+Target PFN: 0x12976c
+bit flip:30535
+i:77,j70
+Target: 78
+Target PFN: 0x1297a4
+bit flip:32564
+i:78,j71
+Target: 79
+Target PFN: 0x12980c
+bit flip:31536
+i:79,j72
+Target: 80
+Target PFN: 0x1298c1
+bit flip:32699
+i:80,j73
+Target: 81
+Target PFN: 0x12991e
+bit flip:30857
+i:81,j74
+Target: 82
+Target PFN: 0x129919
+bit flip:32677
+i:82,j75
+Target: 83
+Target PFN: 0x129996
+bit flip:32763
+i:83,j76
+Target: 84
+Target PFN: 0x1299d8
+bit flip:30952
+i:84,j77
+Target: 85
+Target PFN: 0x129a20
+bit flip:30642
+i:85,j78
+Target: 86
+Target PFN: 0x129af1
+bit flip:32699
+i:86,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x128671
+hammer!
+Killed
+finish munmaping
+finish 0
+Starting program...
+7
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 0
+Target PFN: 0x26526b
+bit flip:30660
+i:0,j0
+Target: 2
+Target PFN: 0x2d8454
+bit flip:30423
+i:2,j1
+Target: 3
+Target PFN: 0x1fd44b
+bit flip:32054
+i:3,j2
+Target: 4
+Target PFN: 0x28655b
+bit flip:31764
+i:4,j3
+Target: 12
+Target PFN: 0x230549
+bit flip:30768
+i:12,j4
+Target: 13
+Target PFN: 0x28604e
+bit flip:31119
+i:13,j5
+Target: 15
+Target PFN: 0x2660c4
+bit flip:30698
+i:15,j6
+Target: 16
+Target PFN: 0x2a2f3c
+bit flip:30822
+i:16,j7
+Target: 20
+Target PFN: 0x1ff8c0
+bit flip:30861
+i:20,j8
+Target: 22
+Target PFN: 0x1ff8d2
+bit flip:30058
+i:22,j9
+Target: 23
+Target PFN: 0x1ff8d3
+bit flip:30801
+i:23,j10
+Target: 24
+Target PFN: 0x3d7b3b
+bit flip:32647
+i:24,j11
+Target: 26
+Target PFN: 0x3a73a4
+bit flip:30543
+i:26,j12
+Target: 32
+Target PFN: 0x36726b
+bit flip:31371
+i:32,j13
+Target: 33
+Target PFN: 0x26918a
+bit flip:30108
+i:33,j14
+Target: 36
+Target PFN: 0x388500
+bit flip:30318
+i:36,j15
+Target: 37
+Target PFN: 0x388501
+bit flip:32701
+i:37,j16
+Target: 38
+Target PFN: 0x3da940
+bit flip:32455
+i:38,j17
+Target: 39
+Target PFN: 0x3da956
+bit flip:32383
+i:39,j18
+Target: 40
+Target PFN: 0x33122e
+bit flip:30829
+i:40,j19
+Target: 41
+Target PFN: 0x3e86e4
+bit flip:31015
+i:41,j20
+Target: 43
+Target PFN: 0x3ca18f
+bit flip:31776
+i:43,j21
+Target: 44
+Target PFN: 0x3584d3
+bit flip:31018
+i:44,j22
+Target: 48
+Target PFN: 0x28f1c0
+bit flip:31773
+i:48,j23
+Target: 50
+Target PFN: 0x2493a0
+bit flip:30003
+i:50,j24
+Target: 54
+Target PFN: 0x3cf98c
+bit flip:32653
+i:54,j25
+Target: 57
+Target PFN: 0x22e88b
+bit flip:31114
+i:57,j26
+Target: 58
+Target PFN: 0x37c72f
+bit flip:32133
+i:58,j27
+Target: 60
+Target PFN: 0x38a62c
+bit flip:30707
+i:60,j28
+Target: 61
+Target PFN: 0x3aaa6c
+bit flip:32630
+i:61,j29
+Target: 62
+Target PFN: 0x3aaa70
+bit flip:32750
+i:62,j30
+Target: 63
+Target PFN: 0x2a47f9
+bit flip:31443
+i:63,j31
+Target: 64
+Target PFN: 0x411cdd
+bit flip:32309
+i:64,j32
+Target: 75
+Target PFN: 0x2d5338
+bit flip:30611
+i:75,j33
+Target: 77
+Target PFN: 0x3ac88c
+bit flip:30535
+i:77,j34
+Target: 80
+Target PFN: 0x34a228
+bit flip:32699
+i:80,j35
+Target: 84
+Target PFN: 0x2dd766
+bit flip:30952
+i:84,j36
+Target: 85
+Target PFN: 0x2dd773
+bit flip:30642
+i:85,j37
+Target: 88
+Target PFN: 0x4195c9
+bit flip:32715
+i:88,j38
+Target: 89
+Target PFN: 0x4195ca
+bit flip:32755
+i:89,j39
+Target: 110
+Target PFN: 0x2e07be
+bit flip:32662
+i:110,j40
+Target: 111
+Target PFN: 0x30d958
+bit flip:30381
+i:111,j41
+Target: 112
+Target PFN: 0x30d95a
+bit flip:30322
+i:112,j42
+Target: 117
+Target PFN: 0x384942
+bit flip:32498
+i:117,j43
+Target: 118
+Target PFN: 0x221be2
+bit flip:30984
+i:118,j44
+Target: 119
+Target PFN: 0x2b0bbb
+bit flip:31701
+i:119,j45
+Target: 120
+Target PFN: 0x2ee23f
+bit flip:32742
+i:120,j46
+Target: 121
+Target PFN: 0x2da804
+bit flip:30166
+i:121,j47
+Target: 122
+Target PFN: 0x28a6bf
+bit flip:30378
+i:122,j48
+Target: 124
+Target PFN: 0x2282b8
+bit flip:32490
+i:124,j49
+Target: 127
+Target PFN: 0x29e4d4
+bit flip:32548
+i:127,j50
+Target: 129
+Target PFN: 0x29e4dd
+bit flip:31295
+i:129,j51
+Target: 131
+Target PFN: 0x35c2ed
+bit flip:31094
+i:131,j52
+Target: 133
+Target PFN: 0x28e08a
+bit flip:32444
+i:133,j53
+Target: 134
+Target PFN: 0x383220
+bit flip:32448
+i:134,j54
+Target: 135
+Target PFN: 0x3ae378
+bit flip:30183
+i:135,j55
+Target: 139
+Target PFN: 0x406547
+bit flip:30814
+i:139,j56
+Target: 140
+Target PFN: 0x406548
+bit flip:32630
+i:140,j57
+Target: 145
+Target PFN: 0x414f31
+bit flip:30881
+i:145,j58
+Target: 146
+Target PFN: 0x414f33
+bit flip:30280
+i:146,j59
+Target: 149
+Target PFN: 0x25c55d
+bit flip:32337
+i:149,j60
+Target: 153
+Target PFN: 0x2039c4
+bit flip:30656
+i:153,j61
+Target: 154
+Target PFN: 0x2039cf
+bit flip:32657
+i:154,j62
+Target: 155
+Target PFN: 0x2039c8
+bit flip:30359
+i:155,j63
+Target: 171
+Target PFN: 0x404269
+bit flip:32339
+i:171,j64
+Target: 172
+Target PFN: 0x40426b
+bit flip:30944
+i:172,j65
+Target: 174
+Target PFN: 0x3e02af
+bit flip:32355
+i:174,j66
+Target: 178
+Target PFN: 0x41b769
+bit flip:30119
+i:178,j67
+Target: 192
+Target PFN: 0x433d4c
+bit flip:31698
+i:192,j68
+Target: 199
+Target PFN: 0x287d46
+bit flip:30730
+i:199,j69
+Target: 204
+Target PFN: 0x2ea9d4
+bit flip:32460
+i:204,j70
+Target: 205
+Target PFN: 0x2ea9d7
+bit flip:32741
+i:205,j71
+Target: 209
+Target PFN: 0x27362a
+bit flip:32399
+i:209,j72
+Target: 210
+Target PFN: 0x396a3d
+bit flip:31594
+i:210,j73
+Target: 211
+Target PFN: 0x396a3e
+bit flip:31486
+i:211,j74
+Target: 212
+Target PFN: 0x396a3f
+bit flip:31962
+i:212,j75
+Target: 215
+Target PFN: 0x39e2ae
+bit flip:31975
+i:215,j76
+Target: 217
+Target PFN: 0x312905
+bit flip:29955
+i:217,j77
+Target: 218
+Target PFN: 0x22b80f
+bit flip:30359
+i:218,j78
+Target: 220
+Target PFN: 0x36063b
+bit flip:30538
+i:220,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x411cdd
+hammer!
+fpip addr: c 0x7ff735ea5ae0 size: 1024
+s addr: 0x1d8693
+c addr: 0x7ff735ea5ae0
+PFN:0x411cdd
+send kill -15
+send kill -15
+finish munmaping
+Starting program...
+3114
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 0
+Target PFN: 0x12ec04
+bit flip:30660
+i:0,j0
+Target: 1
+Target PFN: 0x12ecc6
+bit flip:31137
+i:1,j1
+Target: 2
+Target PFN: 0x12ecdc
+bit flip:30423
+i:2,j2
+Target: 5
+Target PFN: 0x12edc8
+bit flip:32261
+i:5,j3
+Target: 13
+Target PFN: 0x12ef66
+bit flip:31119
+i:13,j4
+Target: 14
+Target PFN: 0x12f005
+bit flip:31346
+i:14,j5
+Target: 15
+Target PFN: 0x12f000
+bit flip:30698
+i:15,j6
+Target: 18
+Target PFN: 0x12f155
+bit flip:31935
+i:18,j7
+Target: 19
+Target PFN: 0x12f191
+bit flip:32398
+i:19,j8
+Target: 21
+Target PFN: 0x12f22c
+bit flip:30958
+i:21,j9
+Target: 24
+Target PFN: 0x12f3b1
+bit flip:32647
+i:24,j10
+Target: 137
+Target PFN: 0x13a729
+bit flip:32523
+i:137,j11
+Target: 139
+Target PFN: 0x13c454
+bit flip:30814
+i:139,j12
+Target: 140
+Target PFN: 0x13c500
+bit flip:32630
+i:140,j13
+Target: 143
+Target PFN: 0x13c622
+bit flip:30703
+i:143,j14
+Target: 167
+Target PFN: 0x13e442
+bit flip:32372
+i:167,j15
+Target: 168
+Target PFN: 0x13e488
+bit flip:32700
+i:168,j16
+Target: 189
+Target PFN: 0x13eead
+bit flip:32627
+i:189,j17
+Target: 204
+Target PFN: 0x13f8c7
+bit flip:32460
+i:204,j18
+Target: 210
+Target PFN: 0x13fb6d
+bit flip:31594
+i:210,j19
+Target: 230
+Target PFN: 0x140904
+bit flip:32686
+i:230,j20
+Target: 234
+Target PFN: 0x140f2e
+bit flip:30113
+i:234,j21
+Target: 243
+Target PFN: 0x141274
+bit flip:32617
+i:243,j22
+Target: 244
+Target PFN: 0x141279
+bit flip:32394
+i:244,j23
+Target: 245
+Target PFN: 0x14133a
+bit flip:32560
+i:245,j24
+Target: 246
+Target PFN: 0x14137a
+bit flip:32629
+i:246,j25
+Target: 247
+Target PFN: 0x1413a6
+bit flip:31099
+i:247,j26
+Target: 248
+Target PFN: 0x1413b0
+bit flip:30160
+i:248,j27
+Target: 249
+Target PFN: 0x141484
+bit flip:30095
+i:249,j28
+Target: 250
+Target PFN: 0x141508
+bit flip:32268
+i:250,j29
+Target: 251
+Target PFN: 0x141551
+bit flip:30155
+i:251,j30
+Target: 252
+Target PFN: 0x14158c
+bit flip:32665
+i:252,j31
+Target: 253
+Target PFN: 0x14158d
+bit flip:31200
+i:253,j32
+Target: 254
+Target PFN: 0x14158e
+bit flip:30130
+i:254,j33
+Target: 255
+Target PFN: 0x141599
+bit flip:31283
+i:255,j34
+Target: 256
+Target PFN: 0x1415da
+bit flip:32590
+i:256,j35
+Target: 258
+Target PFN: 0x1416bf
+bit flip:32320
+i:258,j36
+Target: 259
+Target PFN: 0x141729
+bit flip:32705
+i:259,j37
+Target: 260
+Target PFN: 0x1417a9
+bit flip:31317
+i:260,j38
+Target: 261
+Target PFN: 0x1417b1
+bit flip:31233
+i:261,j39
+Target: 262
+Target PFN: 0x141813
+bit flip:32608
+i:262,j40
+Target: 263
+Target PFN: 0x141811
+bit flip:31826
+i:263,j41
+Target: 264
+Target PFN: 0x141856
+bit flip:32598
+i:264,j42
+Target: 265
+Target PFN: 0x14190b
+bit flip:32202
+i:265,j43
+Target: 267
+Target PFN: 0x141af8
+bit flip:31843
+i:267,j44
+Target: 268
+Target PFN: 0x141afb
+bit flip:31458
+i:268,j45
+Target: 269
+Target PFN: 0x141c47
+bit flip:30604
+i:269,j46
+Target: 270
+Target PFN: 0x141c80
+bit flip:30117
+i:270,j47
+Target: 271
+Target PFN: 0x141d9e
+bit flip:32696
+i:271,j48
+Target: 272
+Target PFN: 0x141d9f
+bit flip:30710
+i:272,j49
+Target: 273
+Target PFN: 0x141d92
+bit flip:31732
+i:273,j50
+Target: 274
+Target PFN: 0x141dd2
+bit flip:32523
+i:274,j51
+Target: 275
+Target PFN: 0x141e63
+bit flip:32596
+i:275,j52
+Target: 297
+Target PFN: 0x1425c8
+bit flip:32149
+i:297,j53
+Target: 300
+Target PFN: 0x1426ad
+bit flip:32417
+i:300,j54
+Target: 301
+Target PFN: 0x1426e1
+bit flip:30387
+i:301,j55
+Target: 302
+Target PFN: 0x1426e2
+bit flip:29993
+i:302,j56
+Target: 305
+Target PFN: 0x142bb8
+bit flip:32382
+i:305,j57
+Target: 306
+Target PFN: 0x144266
+bit flip:32623
+i:306,j58
+Target: 308
+Target PFN: 0x1442a9
+bit flip:32275
+i:308,j59
+Target: 309
+Target PFN: 0x1442aa
+bit flip:31863
+i:309,j60
+Target: 310
+Target PFN: 0x144336
+bit flip:32504
+i:310,j61
+Target: 311
+Target PFN: 0x14436b
+bit flip:30027
+i:311,j62
+Target: 313
+Target PFN: 0x1443b7
+bit flip:31871
+i:313,j63
+Target: 329
+Target PFN: 0x1d5054
+bit flip:31227
+i:329,j64
+Target: 330
+Target PFN: 0x1d5104
+bit flip:30599
+i:330,j65
+Target: 332
+Target PFN: 0x1d522a
+bit flip:32582
+i:332,j66
+Target: 336
+Target PFN: 0x1d53a3
+bit flip:32340
+i:336,j67
+Target: 337
+Target PFN: 0x1d53b4
+bit flip:30954
+i:337,j68
+Target: 338
+Target PFN: 0x1d53b6
+bit flip:30470
+i:338,j69
+Target: 342
+Target PFN: 0x1d558d
+bit flip:32373
+i:342,j70
+Target: 346
+Target PFN: 0x1d56b3
+bit flip:31954
+i:346,j71
+Target: 347
+Target PFN: 0x1d5730
+bit flip:32179
+i:347,j72
+Target: 348
+Target PFN: 0x1d5725
+bit flip:30574
+i:348,j73
+Target: 351
+Target PFN: 0x1d591a
+bit flip:30615
+i:351,j74
+Target: 352
+Target PFN: 0x1d599e
+bit flip:30214
+i:352,j75
+Target: 354
+Target PFN: 0x1d5b39
+bit flip:32447
+i:354,j76
+Target: 355
+Target PFN: 0x1d5ba4
+bit flip:32176
+i:355,j77
+Target: 356
+Target PFN: 0x1d5ba7
+bit flip:31652
+i:356,j78
+Target: 365
+Target PFN: 0x1d5e74
+bit flip:32471
+i:365,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x14158d
+hammer!
+fpip addr: c 0x7f07a06a5ae0 size: 1024
+s addr: 0x161795
+c addr: 0x7f07a06a5ae0
+PFN:0x14158d
+send kill -15
+send kill -15
+finish munmaping
+Starting program...
+1018
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 0
+Target PFN: 0x1275d1
+bit flip:30660
+i:0,j0
+Target: 1
+Target PFN: 0x127674
+bit flip:31137
+i:1,j1
+Target: 3
+Target PFN: 0x1276b2
+bit flip:32054
+i:3,j2
+Target: 4
+Target PFN: 0x1276fc
+bit flip:31764
+i:4,j3
+Target: 5
+Target PFN: 0x127728
+bit flip:32261
+i:5,j4
+Target: 6
+Target PFN: 0x127722
+bit flip:32736
+i:6,j5
+Target: 7
+Target PFN: 0x1277e8
+bit flip:31412
+i:7,j6
+Target: 8
+Target PFN: 0x127816
+bit flip:30349
+i:8,j7
+Target: 10
+Target PFN: 0x127915
+bit flip:30798
+i:10,j8
+Target: 12
+Target PFN: 0x127983
+bit flip:30768
+i:12,j9
+Target: 13
+Target PFN: 0x127a77
+bit flip:31119
+i:13,j10
+Target: 14
+Target PFN: 0x127aa7
+bit flip:31346
+i:14,j11
+Target: 15
+Target PFN: 0x127b24
+bit flip:30698
+i:15,j12
+Target: 16
+Target PFN: 0x127be6
+bit flip:30822
+i:16,j13
+Target: 17
+Target PFN: 0x127cc6
+bit flip:30028
+i:17,j14
+Target: 19
+Target PFN: 0x127d59
+bit flip:32398
+i:19,j15
+Target: 20
+Target PFN: 0x127ea8
+bit flip:30861
+i:20,j16
+Target: 21
+Target PFN: 0x12811a
+bit flip:30958
+i:21,j17
+Target: 22
+Target PFN: 0x128198
+bit flip:30058
+i:22,j18
+Target: 23
+Target PFN: 0x128408
+bit flip:30801
+i:23,j19
+Target: 24
+Target PFN: 0x128496
+bit flip:32647
+i:24,j20
+Target: 26
+Target PFN: 0x1284d8
+bit flip:30543
+i:26,j21
+Target: 27
+Target PFN: 0x1285d2
+bit flip:30889
+i:27,j22
+Target: 28
+Target PFN: 0x1285d3
+bit flip:29991
+i:28,j23
+Target: 29
+Target PFN: 0x128671
+bit flip:32614
+i:29,j24
+Target: 30
+Target PFN: 0x128722
+bit flip:30673
+i:30,j25
+Target: 31
+Target PFN: 0x128803
+bit flip:32662
+i:31,j26
+Target: 32
+Target PFN: 0x128850
+bit flip:31371
+i:32,j27
+Target: 33
+Target PFN: 0x128882
+bit flip:30108
+i:33,j28
+Target: 34
+Target PFN: 0x128995
+bit flip:32073
+i:34,j29
+Target: 35
+Target PFN: 0x128aa7
+bit flip:32055
+i:35,j30
+Target: 36
+Target PFN: 0x128abd
+bit flip:30318
+i:36,j31
+Target: 37
+Target PFN: 0x128bba
+bit flip:32701
+i:37,j32
+Target: 38
+Target PFN: 0x128c0b
+bit flip:32455
+i:38,j33
+Target: 39
+Target PFN: 0x128cc0
+bit flip:32383
+i:39,j34
+Target: 40
+Target PFN: 0x128cc8
+bit flip:30829
+i:40,j35
+Target: 41
+Target PFN: 0x128d14
+bit flip:31015
+i:41,j36
+Target: 42
+Target PFN: 0x128d47
+bit flip:30765
+i:42,j37
+Target: 43
+Target PFN: 0x128d9a
+bit flip:31776
+i:43,j38
+Target: 44
+Target PFN: 0x128ddf
+bit flip:31018
+i:44,j39
+Target: 45
+Target PFN: 0x128e20
+bit flip:32694
+i:45,j40
+Target: 46
+Target PFN: 0x128f3c
+bit flip:32224
+i:46,j41
+Target: 47
+Target PFN: 0x128f3f
+bit flip:32549
+i:47,j42
+Target: 48
+Target PFN: 0x128ff1
+bit flip:31773
+i:48,j43
+Target: 49
+Target PFN: 0x129010
+bit flip:32656
+i:49,j44
+Target: 50
+Target PFN: 0x129141
+bit flip:30003
+i:50,j45
+Target: 51
+Target PFN: 0x129142
+bit flip:32579
+i:51,j46
+Target: 52
+Target PFN: 0x12918f
+bit flip:32463
+i:52,j47
+Target: 53
+Target PFN: 0x1291c8
+bit flip:30860
+i:53,j48
+Target: 54
+Target PFN: 0x1291c9
+bit flip:32653
+i:54,j49
+Target: 55
+Target PFN: 0x1291d8
+bit flip:31349
+i:55,j50
+Target: 56
+Target PFN: 0x129230
+bit flip:32398
+i:56,j51
+Target: 57
+Target PFN: 0x129232
+bit flip:31114
+i:57,j52
+Target: 58
+Target PFN: 0x1292ad
+bit flip:32133
+i:58,j53
+Target: 59
+Target PFN: 0x1292ac
+bit flip:31128
+i:59,j54
+Target: 60
+Target PFN: 0x1292eb
+bit flip:30707
+i:60,j55
+Target: 61
+Target PFN: 0x129408
+bit flip:32630
+i:61,j56
+Target: 62
+Target PFN: 0x12949e
+bit flip:32750
+i:62,j57
+Target: 63
+Target PFN: 0x12949d
+bit flip:31443
+i:63,j58
+Target: 64
+Target PFN: 0x129495
+bit flip:32309
+i:64,j59
+Target: 67
+Target PFN: 0x129588
+bit flip:32579
+i:67,j60
+Target: 68
+Target PFN: 0x129592
+bit flip:31560
+i:68,j61
+Target: 69
+Target PFN: 0x1296a9
+bit flip:30545
+i:69,j62
+Target: 70
+Target PFN: 0x12976c
+bit flip:30007
+i:70,j63
+Target: 71
+Target PFN: 0x1297a4
+bit flip:30829
+i:71,j64
+Target: 72
+Target PFN: 0x12980c
+bit flip:32406
+i:72,j65
+Target: 73
+Target PFN: 0x1298c1
+bit flip:32716
+i:73,j66
+Target: 74
+Target PFN: 0x12991e
+bit flip:31983
+i:74,j67
+Target: 75
+Target PFN: 0x129919
+bit flip:30611
+i:75,j68
+Target: 76
+Target PFN: 0x129996
+bit flip:29979
+i:76,j69
+Target: 77
+Target PFN: 0x1299d8
+bit flip:30535
+i:77,j70
+Target: 78
+Target PFN: 0x129a20
+bit flip:32564
+i:78,j71
+Target: 79
+Target PFN: 0x129af1
+bit flip:31536
+i:79,j72
+Target: 80
+Target PFN: 0x129bac
+bit flip:32699
+i:80,j73
+Target: 81
+Target PFN: 0x129bb0
+bit flip:30857
+i:81,j74
+Target: 82
+Target PFN: 0x129c1c
+bit flip:32677
+i:82,j75
+Target: 83
+Target PFN: 0x129c1f
+bit flip:32763
+i:83,j76
+Target: 84
+Target PFN: 0x129c10
+bit flip:30952
+i:84,j77
+Target: 85
+Target PFN: 0x129c11
+bit flip:30642
+i:85,j78
+Target: 86
+Target PFN: 0x129c42
+bit flip:32699
+i:86,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x128bba
+hammer!
+Killed
+finish munmaping
+finish 1
+Starting program...
+14
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 5
+Target PFN: 0x230549
+bit flip:32261
+i:5,j0
+Target: 6
+Target PFN: 0x28604e
+bit flip:32736
+i:6,j1
+Target: 8
+Target PFN: 0x2660c4
+bit flip:30349
+i:8,j2
+Target: 13
+Target PFN: 0x1ff8c0
+bit flip:31119
+i:13,j3
+Target: 15
+Target PFN: 0x1ff8d2
+bit flip:30698
+i:15,j4
+Target: 19
+Target PFN: 0x3a73a4
+bit flip:32398
+i:19,j5
+Target: 26
+Target PFN: 0x26918a
+bit flip:30543
+i:26,j6
+Target: 29
+Target PFN: 0x388500
+bit flip:32614
+i:29,j7
+Target: 30
+Target PFN: 0x388501
+bit flip:30673
+i:30,j8
+Target: 31
+Target PFN: 0x3da940
+bit flip:32662
+i:31,j9
+Target: 32
+Target PFN: 0x3da956
+bit flip:31371
+i:32,j10
+Target: 33
+Target PFN: 0x33122e
+bit flip:30108
+i:33,j11
+Target: 34
+Target PFN: 0x3e86e4
+bit flip:32073
+i:34,j12
+Target: 36
+Target PFN: 0x3ca18f
+bit flip:30318
+i:36,j13
+Target: 41
+Target PFN: 0x28f1c0
+bit flip:31015
+i:41,j14
+Target: 51
+Target PFN: 0x37c72f
+bit flip:32579
+i:51,j15
+Target: 53
+Target PFN: 0x38a62c
+bit flip:30860
+i:53,j16
+Target: 54
+Target PFN: 0x3aaa6c
+bit flip:32653
+i:54,j17
+Target: 55
+Target PFN: 0x3aaa70
+bit flip:31349
+i:55,j18
+Target: 56
+Target PFN: 0x2a47f9
+bit flip:32398
+i:56,j19
+Target: 57
+Target PFN: 0x411cdd
+bit flip:31114
+i:57,j20
+Target: 68
+Target PFN: 0x2d5338
+bit flip:31560
+i:68,j21
+Target: 70
+Target PFN: 0x3ac88c
+bit flip:30007
+i:70,j22
+Target: 73
+Target PFN: 0x34a228
+bit flip:32716
+i:73,j23
+Target: 77
+Target PFN: 0x2dd766
+bit flip:30535
+i:77,j24
+Target: 78
+Target PFN: 0x2dd773
+bit flip:32564
+i:78,j25
+Target: 81
+Target PFN: 0x4195c9
+bit flip:30857
+i:81,j26
+Target: 82
+Target PFN: 0x4195ca
+bit flip:32677
+i:82,j27
+Target: 103
+Target PFN: 0x2e07be
+bit flip:32679
+i:103,j28
+Target: 104
+Target PFN: 0x30d958
+bit flip:32019
+i:104,j29
+Target: 105
+Target PFN: 0x30d95a
+bit flip:31257
+i:105,j30
+Target: 110
+Target PFN: 0x384942
+bit flip:32662
+i:110,j31
+Target: 111
+Target PFN: 0x221be2
+bit flip:30381
+i:111,j32
+Target: 112
+Target PFN: 0x2b0bbb
+bit flip:30322
+i:112,j33
+Target: 113
+Target PFN: 0x2ee23f
+bit flip:30097
+i:113,j34
+Target: 114
+Target PFN: 0x2da804
+bit flip:32750
+i:114,j35
+Target: 115
+Target PFN: 0x28a6bf
+bit flip:31396
+i:115,j36
+Target: 117
+Target PFN: 0x2282b8
+bit flip:32498
+i:117,j37
+Target: 120
+Target PFN: 0x29e4d4
+bit flip:32742
+i:120,j38
+Target: 122
+Target PFN: 0x29e4dd
+bit flip:30378
+i:122,j39
+Target: 124
+Target PFN: 0x35c2ed
+bit flip:32490
+i:124,j40
+Target: 126
+Target PFN: 0x28e08a
+bit flip:30218
+i:126,j41
+Target: 127
+Target PFN: 0x383220
+bit flip:32548
+i:127,j42
+Target: 128
+Target PFN: 0x3ae378
+bit flip:31114
+i:128,j43
+Target: 132
+Target PFN: 0x406547
+bit flip:32044
+i:132,j44
+Target: 133
+Target PFN: 0x406548
+bit flip:32444
+i:133,j45
+Target: 138
+Target PFN: 0x414f31
+bit flip:31218
+i:138,j46
+Target: 139
+Target PFN: 0x414f33
+bit flip:30814
+i:139,j47
+Target: 142
+Target PFN: 0x25c55d
+bit flip:32409
+i:142,j48
+Target: 146
+Target PFN: 0x2039c4
+bit flip:30280
+i:146,j49
+Target: 147
+Target PFN: 0x2039cf
+bit flip:30001
+i:147,j50
+Target: 148
+Target PFN: 0x2039c8
+bit flip:32712
+i:148,j51
+Target: 164
+Target PFN: 0x404269
+bit flip:31653
+i:164,j52
+Target: 165
+Target PFN: 0x40426b
+bit flip:31779
+i:165,j53
+Target: 167
+Target PFN: 0x3e02af
+bit flip:32372
+i:167,j54
+Target: 171
+Target PFN: 0x41b769
+bit flip:32339
+i:171,j55
+Target: 185
+Target PFN: 0x433d4c
+bit flip:32714
+i:185,j56
+Target: 192
+Target PFN: 0x287d46
+bit flip:31698
+i:192,j57
+Target: 197
+Target PFN: 0x2ea9d4
+bit flip:32179
+i:197,j58
+Target: 198
+Target PFN: 0x2ea9d7
+bit flip:31082
+i:198,j59
+Target: 202
+Target PFN: 0x27362a
+bit flip:31816
+i:202,j60
+Target: 203
+Target PFN: 0x396a3d
+bit flip:32554
+i:203,j61
+Target: 204
+Target PFN: 0x396a3e
+bit flip:32460
+i:204,j62
+Target: 205
+Target PFN: 0x396a3f
+bit flip:32741
+i:205,j63
+Target: 208
+Target PFN: 0x39e2ae
+bit flip:32649
+i:208,j64
+Target: 210
+Target PFN: 0x312905
+bit flip:31594
+i:210,j65
+Target: 211
+Target PFN: 0x22b80f
+bit flip:31486
+i:211,j66
+Target: 213
+Target PFN: 0x36063b
+bit flip:30050
+i:213,j67
+Target: 219
+Target PFN: 0x204885
+bit flip:30369
+i:219,j68
+Target: 220
+Target PFN: 0x204886
+bit flip:30538
+i:220,j69
+Target: 221
+Target PFN: 0x204880
+bit flip:32274
+i:221,j70
+Target: 222
+Target PFN: 0x3b75c4
+bit flip:32363
+i:222,j71
+Target: 223
+Target PFN: 0x283454
+bit flip:32290
+i:223,j72
+Target: 224
+Target PFN: 0x36a6f8
+bit flip:31975
+i:224,j73
+Target: 225
+Target PFN: 0x3879cd
+bit flip:32398
+i:225,j74
+Target: 226
+Target PFN: 0x3879c8
+bit flip:32506
+i:226,j75
+Target: 227
+Target PFN: 0x39bd44
+bit flip:32150
+i:227,j76
+Target: 228
+Target PFN: 0x39bd47
+bit flip:32705
+i:228,j77
+Target: 229
+Target PFN: 0x2a8ba8
+bit flip:30111
+i:229,j78
+Target: 230
+Target PFN: 0x2996e4
+bit flip:32686
+i:230,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x2ee23f
+hammer!
+fpip addr: c 0x7f25a86a5ae0 size: 1024
+s addr: 0x2ea9d4
+c addr: 0x7f25a86a5ae0
+PFN:0x2ee23f
+send kill -15
+send kill -15
+finish munmaping
+Starting program...
+3121
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 6
+Target PFN: 0x12ef66
+bit flip:32736
+i:6,j0
+Target: 7
+Target PFN: 0x12f005
+bit flip:31412
+i:7,j1
+Target: 11
+Target PFN: 0x12f155
+bit flip:32507
+i:11,j2
+Target: 12
+Target PFN: 0x12f191
+bit flip:30768
+i:12,j3
+Target: 14
+Target PFN: 0x12f22c
+bit flip:31346
+i:14,j4
+Target: 130
+Target PFN: 0x13a729
+bit flip:30224
+i:130,j5
+Target: 131
+Target PFN: 0x13a72a
+bit flip:31094
+i:131,j6
+Target: 132
+Target PFN: 0x13c454
+bit flip:32044
+i:132,j7
+Target: 133
+Target PFN: 0x13c500
+bit flip:32444
+i:133,j8
+Target: 136
+Target PFN: 0x13c622
+bit flip:32435
+i:136,j9
+Target: 160
+Target PFN: 0x13e442
+bit flip:32750
+i:160,j10
+Target: 161
+Target PFN: 0x13e488
+bit flip:32593
+i:161,j11
+Target: 182
+Target PFN: 0x13eead
+bit flip:30487
+i:182,j12
+Target: 197
+Target PFN: 0x13f8c7
+bit flip:32179
+i:197,j13
+Target: 203
+Target PFN: 0x13fb6d
+bit flip:32554
+i:203,j14
+Target: 223
+Target PFN: 0x140904
+bit flip:32290
+i:223,j15
+Target: 227
+Target PFN: 0x140f2e
+bit flip:32150
+i:227,j16
+Target: 236
+Target PFN: 0x141274
+bit flip:29953
+i:236,j17
+Target: 237
+Target PFN: 0x141279
+bit flip:32149
+i:237,j18
+Target: 238
+Target PFN: 0x14133a
+bit flip:32104
+i:238,j19
+Target: 239
+Target PFN: 0x14137a
+bit flip:30580
+i:239,j20
+Target: 240
+Target PFN: 0x1413a6
+bit flip:32591
+i:240,j21
+Target: 241
+Target PFN: 0x1413b0
+bit flip:30455
+i:241,j22
+Target: 242
+Target PFN: 0x141484
+bit flip:31956
+i:242,j23
+Target: 243
+Target PFN: 0x141508
+bit flip:32617
+i:243,j24
+Target: 244
+Target PFN: 0x141551
+bit flip:32394
+i:244,j25
+Target: 245
+Target PFN: 0x14158c
+bit flip:32560
+i:245,j26
+Target: 246
+Target PFN: 0x14158d
+bit flip:32629
+i:246,j27
+Target: 247
+Target PFN: 0x14158e
+bit flip:31099
+i:247,j28
+Target: 248
+Target PFN: 0x141599
+bit flip:30160
+i:248,j29
+Target: 249
+Target PFN: 0x1415da
+bit flip:30095
+i:249,j30
+Target: 251
+Target PFN: 0x1416bf
+bit flip:30155
+i:251,j31
+Target: 252
+Target PFN: 0x141729
+bit flip:32665
+i:252,j32
+Target: 253
+Target PFN: 0x1417a9
+bit flip:31200
+i:253,j33
+Target: 254
+Target PFN: 0x1417b1
+bit flip:30130
+i:254,j34
+Target: 255
+Target PFN: 0x141813
+bit flip:31283
+i:255,j35
+Target: 256
+Target PFN: 0x141811
+bit flip:32590
+i:256,j36
+Target: 257
+Target PFN: 0x141856
+bit flip:30388
+i:257,j37
+Target: 258
+Target PFN: 0x14190b
+bit flip:32320
+i:258,j38
+Target: 260
+Target PFN: 0x141af8
+bit flip:31317
+i:260,j39
+Target: 261
+Target PFN: 0x141afb
+bit flip:31233
+i:261,j40
+Target: 262
+Target PFN: 0x141c47
+bit flip:32608
+i:262,j41
+Target: 263
+Target PFN: 0x141c80
+bit flip:31826
+i:263,j42
+Target: 264
+Target PFN: 0x141d9e
+bit flip:32598
+i:264,j43
+Target: 265
+Target PFN: 0x141d9f
+bit flip:32202
+i:265,j44
+Target: 266
+Target PFN: 0x141d92
+bit flip:32469
+i:266,j45
+Target: 267
+Target PFN: 0x141dd2
+bit flip:31843
+i:267,j46
+Target: 268
+Target PFN: 0x141e63
+bit flip:31458
+i:268,j47
+Target: 290
+Target PFN: 0x1425c8
+bit flip:32686
+i:290,j48
+Target: 293
+Target PFN: 0x1426ad
+bit flip:31816
+i:293,j49
+Target: 294
+Target PFN: 0x1426e1
+bit flip:31412
+i:294,j50
+Target: 295
+Target PFN: 0x1426e2
+bit flip:31182
+i:295,j51
+Target: 298
+Target PFN: 0x142bb8
+bit flip:30069
+i:298,j52
+Target: 299
+Target PFN: 0x144266
+bit flip:32386
+i:299,j53
+Target: 301
+Target PFN: 0x1442a9
+bit flip:30387
+i:301,j54
+Target: 302
+Target PFN: 0x1442aa
+bit flip:29993
+i:302,j55
+Target: 303
+Target PFN: 0x144336
+bit flip:30837
+i:303,j56
+Target: 304
+Target PFN: 0x14436b
+bit flip:32656
+i:304,j57
+Target: 306
+Target PFN: 0x1443b7
+bit flip:32623
+i:306,j58
+Target: 322
+Target PFN: 0x1d5054
+bit flip:31566
+i:322,j59
+Target: 323
+Target PFN: 0x1d5104
+bit flip:30515
+i:323,j60
+Target: 325
+Target PFN: 0x1d522a
+bit flip:30931
+i:325,j61
+Target: 329
+Target PFN: 0x1d53a3
+bit flip:31227
+i:329,j62
+Target: 330
+Target PFN: 0x1d53b4
+bit flip:30599
+i:330,j63
+Target: 331
+Target PFN: 0x1d53b6
+bit flip:31889
+i:331,j64
+Target: 335
+Target PFN: 0x1d558d
+bit flip:32705
+i:335,j65
+Target: 339
+Target PFN: 0x1d56b3
+bit flip:30207
+i:339,j66
+Target: 340
+Target PFN: 0x1d5730
+bit flip:30940
+i:340,j67
+Target: 341
+Target PFN: 0x1d5725
+bit flip:32291
+i:341,j68
+Target: 344
+Target PFN: 0x1d591a
+bit flip:31121
+i:344,j69
+Target: 345
+Target PFN: 0x1d599e
+bit flip:32592
+i:345,j70
+Target: 347
+Target PFN: 0x1d5b39
+bit flip:32179
+i:347,j71
+Target: 348
+Target PFN: 0x1d5ba4
+bit flip:30574
+i:348,j72
+Target: 349
+Target PFN: 0x1d5ba7
+bit flip:30997
+i:349,j73
+Target: 358
+Target PFN: 0x1d5e74
+bit flip:32639
+i:358,j74
+Target: 359
+Target PFN: 0x1d5e7f
+bit flip:31148
+i:359,j75
+Target: 364
+Target PFN: 0x1d60c4
+bit flip:30926
+i:364,j76
+Target: 365
+Target PFN: 0x1d60d1
+bit flip:32471
+i:365,j77
+Target: 368
+Target PFN: 0x1d610e
+bit flip:32401
+i:368,j78
+Target: 369
+Target PFN: 0x1d61d8
+bit flip:30289
+i:369,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x1416bf
+hammer!
+Killed
+finish munmaping
+Starting program...
+1025
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 0
+Target PFN: 0x1277e8
+bit flip:30660
+i:0,j0
+Target: 1
+Target PFN: 0x127816
+bit flip:31137
+i:1,j1
+Target: 3
+Target PFN: 0x127915
+bit flip:32054
+i:3,j2
+Target: 5
+Target PFN: 0x127983
+bit flip:32261
+i:5,j3
+Target: 6
+Target PFN: 0x127a77
+bit flip:32736
+i:6,j4
+Target: 7
+Target PFN: 0x127aa7
+bit flip:31412
+i:7,j5
+Target: 8
+Target PFN: 0x127b24
+bit flip:30349
+i:8,j6
+Target: 9
+Target PFN: 0x127be6
+bit flip:32361
+i:9,j7
+Target: 10
+Target PFN: 0x127cc6
+bit flip:30798
+i:10,j8
+Target: 12
+Target PFN: 0x127d59
+bit flip:30768
+i:12,j9
+Target: 13
+Target PFN: 0x127ea8
+bit flip:31119
+i:13,j10
+Target: 14
+Target PFN: 0x12811a
+bit flip:31346
+i:14,j11
+Target: 15
+Target PFN: 0x128198
+bit flip:30698
+i:15,j12
+Target: 16
+Target PFN: 0x128408
+bit flip:30822
+i:16,j13
+Target: 17
+Target PFN: 0x128496
+bit flip:30028
+i:17,j14
+Target: 19
+Target PFN: 0x1284d8
+bit flip:32398
+i:19,j15
+Target: 20
+Target PFN: 0x1285d2
+bit flip:30861
+i:20,j16
+Target: 21
+Target PFN: 0x1285d3
+bit flip:30958
+i:21,j17
+Target: 22
+Target PFN: 0x128671
+bit flip:30058
+i:22,j18
+Target: 23
+Target PFN: 0x128722
+bit flip:30801
+i:23,j19
+Target: 24
+Target PFN: 0x128803
+bit flip:32647
+i:24,j20
+Target: 25
+Target PFN: 0x128850
+bit flip:32425
+i:25,j21
+Target: 26
+Target PFN: 0x128882
+bit flip:30543
+i:26,j22
+Target: 27
+Target PFN: 0x128995
+bit flip:30889
+i:27,j23
+Target: 28
+Target PFN: 0x128aa7
+bit flip:29991
+i:28,j24
+Target: 29
+Target PFN: 0x128abd
+bit flip:32614
+i:29,j25
+Target: 30
+Target PFN: 0x128bba
+bit flip:30673
+i:30,j26
+Target: 31
+Target PFN: 0x128c0b
+bit flip:32662
+i:31,j27
+Target: 32
+Target PFN: 0x128cc0
+bit flip:31371
+i:32,j28
+Target: 33
+Target PFN: 0x128cc8
+bit flip:30108
+i:33,j29
+Target: 34
+Target PFN: 0x128d14
+bit flip:32073
+i:34,j30
+Target: 35
+Target PFN: 0x128d47
+bit flip:32055
+i:35,j31
+Target: 36
+Target PFN: 0x128d9a
+bit flip:30318
+i:36,j32
+Target: 37
+Target PFN: 0x128ddf
+bit flip:32701
+i:37,j33
+Target: 38
+Target PFN: 0x128e20
+bit flip:32455
+i:38,j34
+Target: 39
+Target PFN: 0x128f3c
+bit flip:32383
+i:39,j35
+Target: 40
+Target PFN: 0x128f3f
+bit flip:30829
+i:40,j36
+Target: 41
+Target PFN: 0x128ff1
+bit flip:31015
+i:41,j37
+Target: 42
+Target PFN: 0x129010
+bit flip:30765
+i:42,j38
+Target: 43
+Target PFN: 0x129141
+bit flip:31776
+i:43,j39
+Target: 44
+Target PFN: 0x129142
+bit flip:31018
+i:44,j40
+Target: 45
+Target PFN: 0x12918f
+bit flip:32694
+i:45,j41
+Target: 46
+Target PFN: 0x1291c8
+bit flip:32224
+i:46,j42
+Target: 47
+Target PFN: 0x1291c9
+bit flip:32549
+i:47,j43
+Target: 48
+Target PFN: 0x1291d8
+bit flip:31773
+i:48,j44
+Target: 49
+Target PFN: 0x129230
+bit flip:32656
+i:49,j45
+Target: 50
+Target PFN: 0x129232
+bit flip:30003
+i:50,j46
+Target: 51
+Target PFN: 0x1292ad
+bit flip:32579
+i:51,j47
+Target: 52
+Target PFN: 0x1292ac
+bit flip:32463
+i:52,j48
+Target: 53
+Target PFN: 0x1292eb
+bit flip:30860
+i:53,j49
+Target: 54
+Target PFN: 0x129408
+bit flip:32653
+i:54,j50
+Target: 55
+Target PFN: 0x12949e
+bit flip:31349
+i:55,j51
+Target: 56
+Target PFN: 0x12949d
+bit flip:32398
+i:56,j52
+Target: 57
+Target PFN: 0x129495
+bit flip:31114
+i:57,j53
+Target: 60
+Target PFN: 0x129588
+bit flip:30707
+i:60,j54
+Target: 61
+Target PFN: 0x129592
+bit flip:32630
+i:61,j55
+Target: 62
+Target PFN: 0x1296a9
+bit flip:32750
+i:62,j56
+Target: 63
+Target PFN: 0x12976c
+bit flip:31443
+i:63,j57
+Target: 64
+Target PFN: 0x1297a4
+bit flip:32309
+i:64,j58
+Target: 65
+Target PFN: 0x12980c
+bit flip:30834
+i:65,j59
+Target: 66
+Target PFN: 0x1298c1
+bit flip:31716
+i:66,j60
+Target: 67
+Target PFN: 0x12991e
+bit flip:32579
+i:67,j61
+Target: 68
+Target PFN: 0x129919
+bit flip:31560
+i:68,j62
+Target: 69
+Target PFN: 0x129996
+bit flip:30545
+i:69,j63
+Target: 70
+Target PFN: 0x1299d8
+bit flip:30007
+i:70,j64
+Target: 71
+Target PFN: 0x129a20
+bit flip:30829
+i:71,j65
+Target: 72
+Target PFN: 0x129af1
+bit flip:32406
+i:72,j66
+Target: 73
+Target PFN: 0x129bac
+bit flip:32716
+i:73,j67
+Target: 74
+Target PFN: 0x129bb0
+bit flip:31983
+i:74,j68
+Target: 75
+Target PFN: 0x129c1c
+bit flip:30611
+i:75,j69
+Target: 76
+Target PFN: 0x129c1f
+bit flip:29979
+i:76,j70
+Target: 77
+Target PFN: 0x129c10
+bit flip:30535
+i:77,j71
+Target: 78
+Target PFN: 0x129c11
+bit flip:32564
+i:78,j72
+Target: 79
+Target PFN: 0x129c42
+bit flip:31536
+i:79,j73
+Target: 82
+Target PFN: 0x129eb7
+bit flip:32677
+i:82,j74
+Target: 83
+Target PFN: 0x129ef4
+bit flip:32763
+i:83,j75
+Target: 97
+Target PFN: 0x12a8ce
+bit flip:32467
+i:97,j76
+Target: 98
+Target PFN: 0x12a905
+bit flip:30480
+i:98,j77
+Target: 99
+Target PFN: 0x12a954
+bit flip:31117
+i:99,j78
+Target: 100
+Target PFN: 0x12a9da
+bit flip:32672
+i:100,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x128d9a
+hammer!
+fpip addr: c 0x7fe66e2a5ae0 size: 1024
+s addr: 0x351faa
+c addr: 0x7fe66e2a5ae0
+PFN:0x128d9a
+send kill -15
+send kill -15
+finish munmaping
+finish 2
+Starting program...
+21
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 1
+Target PFN: 0x2660c4
+bit flip:31137
+i:1,j0
+Target: 2
+Target PFN: 0x2a2f3c
+bit flip:30423
+i:2,j1
+Target: 6
+Target PFN: 0x1ff8c0
+bit flip:32736
+i:6,j2
+Target: 8
+Target PFN: 0x1ff8d2
+bit flip:30349
+i:8,j3
+Target: 10
+Target PFN: 0x3d7b3b
+bit flip:30798
+i:10,j4
+Target: 12
+Target PFN: 0x3a73a4
+bit flip:30768
+i:12,j5
+Target: 18
+Target PFN: 0x36726b
+bit flip:31935
+i:18,j6
+Target: 19
+Target PFN: 0x26918a
+bit flip:32398
+i:19,j7
+Target: 22
+Target PFN: 0x388500
+bit flip:30058
+i:22,j8
+Target: 23
+Target PFN: 0x388501
+bit flip:30801
+i:23,j9
+Target: 24
+Target PFN: 0x3da940
+bit flip:32647
+i:24,j10
+Target: 25
+Target PFN: 0x3da956
+bit flip:32425
+i:25,j11
+Target: 26
+Target PFN: 0x33122e
+bit flip:30543
+i:26,j12
+Target: 27
+Target PFN: 0x3e86e4
+bit flip:30889
+i:27,j13
+Target: 29
+Target PFN: 0x3ca18f
+bit flip:32614
+i:29,j14
+Target: 30
+Target PFN: 0x3584d3
+bit flip:30673
+i:30,j15
+Target: 34
+Target PFN: 0x28f1c0
+bit flip:32073
+i:34,j16
+Target: 36
+Target PFN: 0x2493a0
+bit flip:30318
+i:36,j17
+Target: 43
+Target PFN: 0x22e88b
+bit flip:31776
+i:43,j18
+Target: 44
+Target PFN: 0x37c72f
+bit flip:31018
+i:44,j19
+Target: 47
+Target PFN: 0x3aaa6c
+bit flip:32549
+i:47,j20
+Target: 48
+Target PFN: 0x3aaa70
+bit flip:31773
+i:48,j21
+Target: 49
+Target PFN: 0x2a47f9
+bit flip:32656
+i:49,j22
+Target: 50
+Target PFN: 0x411cdd
+bit flip:30003
+i:50,j23
+Target: 61
+Target PFN: 0x2d5338
+bit flip:32630
+i:61,j24
+Target: 63
+Target PFN: 0x3ac88c
+bit flip:31443
+i:63,j25
+Target: 66
+Target PFN: 0x34a228
+bit flip:31716
+i:66,j26
+Target: 70
+Target PFN: 0x2dd766
+bit flip:30007
+i:70,j27
+Target: 71
+Target PFN: 0x2dd773
+bit flip:30829
+i:71,j28
+Target: 74
+Target PFN: 0x4195c9
+bit flip:31983
+i:74,j29
+Target: 75
+Target PFN: 0x4195ca
+bit flip:30611
+i:75,j30
+Target: 96
+Target PFN: 0x2e07be
+bit flip:30801
+i:96,j31
+Target: 97
+Target PFN: 0x30d958
+bit flip:32467
+i:97,j32
+Target: 98
+Target PFN: 0x30d95a
+bit flip:30480
+i:98,j33
+Target: 104
+Target PFN: 0x221be2
+bit flip:32019
+i:104,j34
+Target: 105
+Target PFN: 0x2b0bbb
+bit flip:31257
+i:105,j35
+Target: 106
+Target PFN: 0x2ee23f
+bit flip:30069
+i:106,j36
+Target: 107
+Target PFN: 0x2da804
+bit flip:32420
+i:107,j37
+Target: 108
+Target PFN: 0x28a6bf
+bit flip:31846
+i:108,j38
+Target: 110
+Target PFN: 0x2282b8
+bit flip:32662
+i:110,j39
+Target: 113
+Target PFN: 0x29e4d4
+bit flip:30097
+i:113,j40
+Target: 115
+Target PFN: 0x29e4dd
+bit flip:31396
+i:115,j41
+Target: 117
+Target PFN: 0x35c2ed
+bit flip:32498
+i:117,j42
+Target: 119
+Target PFN: 0x28e08a
+bit flip:31701
+i:119,j43
+Target: 120
+Target PFN: 0x383220
+bit flip:32742
+i:120,j44
+Target: 121
+Target PFN: 0x3ae378
+bit flip:30166
+i:121,j45
+Target: 125
+Target PFN: 0x406547
+bit flip:31161
+i:125,j46
+Target: 126
+Target PFN: 0x406548
+bit flip:30218
+i:126,j47
+Target: 131
+Target PFN: 0x414f31
+bit flip:31094
+i:131,j48
+Target: 132
+Target PFN: 0x414f33
+bit flip:32044
+i:132,j49
+Target: 135
+Target PFN: 0x25c55d
+bit flip:30183
+i:135,j50
+Target: 139
+Target PFN: 0x2039c4
+bit flip:30814
+i:139,j51
+Target: 140
+Target PFN: 0x2039cf
+bit flip:32630
+i:140,j52
+Target: 141
+Target PFN: 0x2039c8
+bit flip:30804
+i:141,j53
+Target: 157
+Target PFN: 0x404269
+bit flip:32463
+i:157,j54
+Target: 158
+Target PFN: 0x40426b
+bit flip:30892
+i:158,j55
+Target: 160
+Target PFN: 0x3e02af
+bit flip:32750
+i:160,j56
+Target: 164
+Target PFN: 0x41b769
+bit flip:31653
+i:164,j57
+Target: 178
+Target PFN: 0x433d4c
+bit flip:30119
+i:178,j58
+Target: 185
+Target PFN: 0x287d46
+bit flip:32714
+i:185,j59
+Target: 190
+Target PFN: 0x2ea9d4
+bit flip:32747
+i:190,j60
+Target: 191
+Target PFN: 0x2ea9d7
+bit flip:30263
+i:191,j61
+Target: 195
+Target PFN: 0x27362a
+bit flip:30473
+i:195,j62
+Target: 196
+Target PFN: 0x396a3d
+bit flip:30545
+i:196,j63
+Target: 197
+Target PFN: 0x396a3e
+bit flip:32179
+i:197,j64
+Target: 198
+Target PFN: 0x396a3f
+bit flip:31082
+i:198,j65
+Target: 201
+Target PFN: 0x39e2ae
+bit flip:31713
+i:201,j66
+Target: 203
+Target PFN: 0x312905
+bit flip:32554
+i:203,j67
+Target: 204
+Target PFN: 0x22b80f
+bit flip:32460
+i:204,j68
+Target: 206
+Target PFN: 0x36063b
+bit flip:31980
+i:206,j69
+Target: 211
+Target PFN: 0x410b2a
+bit flip:31486
+i:211,j70
+Target: 212
+Target PFN: 0x204885
+bit flip:31962
+i:212,j71
+Target: 213
+Target PFN: 0x204886
+bit flip:30050
+i:213,j72
+Target: 214
+Target PFN: 0x204880
+bit flip:32031
+i:214,j73
+Target: 215
+Target PFN: 0x3b75c4
+bit flip:31975
+i:215,j74
+Target: 216
+Target PFN: 0x283454
+bit flip:31957
+i:216,j75
+Target: 217
+Target PFN: 0x36a6f8
+bit flip:29955
+i:217,j76
+Target: 218
+Target PFN: 0x3879cd
+bit flip:30359
+i:218,j77
+Target: 219
+Target PFN: 0x3879c8
+bit flip:30369
+i:219,j78
+Target: 220
+Target PFN: 0x39bd44
+bit flip:30538
+i:220,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x221be2
+hammer!
+fpip addr: c 0x7fe0176a5ae0 size: 1024
+s addr: 0x449e8e
+c addr: 0x7fe0176a5ae0
+PFN:0x221be2
+send kill -15
+send kill -15
+finish munmaping
+Starting program...
+3128
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 0
+Target PFN: 0x12f005
+bit flip:30660
+i:0,j0
+Target: 1
+Target PFN: 0x12f000
+bit flip:31137
+i:1,j1
+Target: 4
+Target PFN: 0x12f155
+bit flip:31764
+i:4,j2
+Target: 5
+Target PFN: 0x12f191
+bit flip:32261
+i:5,j3
+Target: 6
+Target PFN: 0x12f1c8
+bit flip:32736
+i:6,j4
+Target: 7
+Target PFN: 0x12f22c
+bit flip:31412
+i:7,j5
+Target: 123
+Target PFN: 0x13a729
+bit flip:32734
+i:123,j6
+Target: 124
+Target PFN: 0x13a72a
+bit flip:32490
+i:124,j7
+Target: 125
+Target PFN: 0x13c454
+bit flip:31161
+i:125,j8
+Target: 126
+Target PFN: 0x13c500
+bit flip:30218
+i:126,j9
+Target: 129
+Target PFN: 0x13c622
+bit flip:31295
+i:129,j10
+Target: 153
+Target PFN: 0x13e442
+bit flip:30656
+i:153,j11
+Target: 154
+Target PFN: 0x13e488
+bit flip:32657
+i:154,j12
+Target: 175
+Target PFN: 0x13eead
+bit flip:31688
+i:175,j13
+Target: 190
+Target PFN: 0x13f8c7
+bit flip:32747
+i:190,j14
+Target: 196
+Target PFN: 0x13fb6d
+bit flip:30545
+i:196,j15
+Target: 216
+Target PFN: 0x140904
+bit flip:31957
+i:216,j16
+Target: 220
+Target PFN: 0x140f2e
+bit flip:30538
+i:220,j17
+Target: 229
+Target PFN: 0x141274
+bit flip:30111
+i:229,j18
+Target: 230
+Target PFN: 0x141279
+bit flip:32686
+i:230,j19
+Target: 231
+Target PFN: 0x14133a
+bit flip:32041
+i:231,j20
+Target: 232
+Target PFN: 0x14137a
+bit flip:31277
+i:232,j21
+Target: 233
+Target PFN: 0x1413a6
+bit flip:31715
+i:233,j22
+Target: 234
+Target PFN: 0x1413b0
+bit flip:30113
+i:234,j23
+Target: 235
+Target PFN: 0x141484
+bit flip:31929
+i:235,j24
+Target: 236
+Target PFN: 0x141508
+bit flip:29953
+i:236,j25
+Target: 237
+Target PFN: 0x141551
+bit flip:32149
+i:237,j26
+Target: 238
+Target PFN: 0x14158c
+bit flip:32104
+i:238,j27
+Target: 239
+Target PFN: 0x14158d
+bit flip:30580
+i:239,j28
+Target: 240
+Target PFN: 0x14158e
+bit flip:32591
+i:240,j29
+Target: 241
+Target PFN: 0x141599
+bit flip:30455
+i:241,j30
+Target: 242
+Target PFN: 0x1415da
+bit flip:31956
+i:242,j31
+Target: 244
+Target PFN: 0x1416bf
+bit flip:32394
+i:244,j32
+Target: 245
+Target PFN: 0x141729
+bit flip:32560
+i:245,j33
+Target: 246
+Target PFN: 0x1417a9
+bit flip:32629
+i:246,j34
+Target: 247
+Target PFN: 0x1417b1
+bit flip:31099
+i:247,j35
+Target: 248
+Target PFN: 0x141813
+bit flip:30160
+i:248,j36
+Target: 249
+Target PFN: 0x141811
+bit flip:30095
+i:249,j37
+Target: 250
+Target PFN: 0x141856
+bit flip:32268
+i:250,j38
+Target: 251
+Target PFN: 0x14190b
+bit flip:30155
+i:251,j39
+Target: 253
+Target PFN: 0x141af8
+bit flip:31200
+i:253,j40
+Target: 254
+Target PFN: 0x141afb
+bit flip:30130
+i:254,j41
+Target: 255
+Target PFN: 0x141c47
+bit flip:31283
+i:255,j42
+Target: 256
+Target PFN: 0x141c80
+bit flip:32590
+i:256,j43
+Target: 257
+Target PFN: 0x141d9e
+bit flip:30388
+i:257,j44
+Target: 258
+Target PFN: 0x141d9f
+bit flip:32320
+i:258,j45
+Target: 259
+Target PFN: 0x141d92
+bit flip:32705
+i:259,j46
+Target: 260
+Target PFN: 0x141dd2
+bit flip:31317
+i:260,j47
+Target: 261
+Target PFN: 0x141e63
+bit flip:31233
+i:261,j48
+Target: 283
+Target PFN: 0x1425c8
+bit flip:32320
+i:283,j49
+Target: 286
+Target PFN: 0x1426ad
+bit flip:30705
+i:286,j50
+Target: 287
+Target PFN: 0x1426e1
+bit flip:31933
+i:287,j51
+Target: 288
+Target PFN: 0x1426e2
+bit flip:32372
+i:288,j52
+Target: 291
+Target PFN: 0x142bb8
+bit flip:32461
+i:291,j53
+Target: 292
+Target PFN: 0x144266
+bit flip:32597
+i:292,j54
+Target: 294
+Target PFN: 0x1442a9
+bit flip:31412
+i:294,j55
+Target: 295
+Target PFN: 0x1442aa
+bit flip:31182
+i:295,j56
+Target: 296
+Target PFN: 0x144336
+bit flip:30913
+i:296,j57
+Target: 297
+Target PFN: 0x14436b
+bit flip:32149
+i:297,j58
+Target: 299
+Target PFN: 0x1443b7
+bit flip:32386
+i:299,j59
+Target: 315
+Target PFN: 0x1d5054
+bit flip:32294
+i:315,j60
+Target: 316
+Target PFN: 0x1d5104
+bit flip:30345
+i:316,j61
+Target: 318
+Target PFN: 0x1d522a
+bit flip:31761
+i:318,j62
+Target: 322
+Target PFN: 0x1d53a3
+bit flip:31566
+i:322,j63
+Target: 323
+Target PFN: 0x1d53b4
+bit flip:30515
+i:323,j64
+Target: 324
+Target PFN: 0x1d53b6
+bit flip:32377
+i:324,j65
+Target: 328
+Target PFN: 0x1d558d
+bit flip:31829
+i:328,j66
+Target: 332
+Target PFN: 0x1d56b3
+bit flip:32582
+i:332,j67
+Target: 333
+Target PFN: 0x1d5730
+bit flip:30945
+i:333,j68
+Target: 334
+Target PFN: 0x1d5725
+bit flip:31924
+i:334,j69
+Target: 337
+Target PFN: 0x1d591a
+bit flip:30954
+i:337,j70
+Target: 338
+Target PFN: 0x1d599e
+bit flip:30470
+i:338,j71
+Target: 340
+Target PFN: 0x1d5b39
+bit flip:30940
+i:340,j72
+Target: 341
+Target PFN: 0x1d5ba4
+bit flip:32291
+i:341,j73
+Target: 342
+Target PFN: 0x1d5ba7
+bit flip:32373
+i:342,j74
+Target: 351
+Target PFN: 0x1d5e74
+bit flip:30615
+i:351,j75
+Target: 352
+Target PFN: 0x1d5e7f
+bit flip:30214
+i:352,j76
+Target: 357
+Target PFN: 0x1d60c4
+bit flip:31067
+i:357,j77
+Target: 358
+Target PFN: 0x1d60d1
+bit flip:32639
+i:358,j78
+Target: 361
+Target PFN: 0x1d610e
+bit flip:30043
+i:361,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x141729
+hammer!
+Killed
+finish munmaping
+Starting program...
+1032
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 0
+Target PFN: 0x127aa7
+bit flip:30660
+i:0,j0
+Target: 1
+Target PFN: 0x127b24
+bit flip:31137
+i:1,j1
+Target: 2
+Target PFN: 0x127be6
+bit flip:30423
+i:2,j2
+Target: 3
+Target PFN: 0x127cc6
+bit flip:32054
+i:3,j3
+Target: 5
+Target PFN: 0x127d59
+bit flip:32261
+i:5,j4
+Target: 6
+Target PFN: 0x127ea8
+bit flip:32736
+i:6,j5
+Target: 7
+Target PFN: 0x12811a
+bit flip:31412
+i:7,j6
+Target: 8
+Target PFN: 0x128198
+bit flip:30349
+i:8,j7
+Target: 9
+Target PFN: 0x128408
+bit flip:32361
+i:9,j8
+Target: 12
+Target PFN: 0x1284d8
+bit flip:30768
+i:12,j9
+Target: 13
+Target PFN: 0x1285d2
+bit flip:31119
+i:13,j10
+Target: 14
+Target PFN: 0x1285d3
+bit flip:31346
+i:14,j11
+Target: 15
+Target PFN: 0x128671
+bit flip:30698
+i:15,j12
+Target: 16
+Target PFN: 0x128722
+bit flip:30822
+i:16,j13
+Target: 17
+Target PFN: 0x128803
+bit flip:30028
+i:17,j14
+Target: 18
+Target PFN: 0x128850
+bit flip:31935
+i:18,j15
+Target: 19
+Target PFN: 0x128882
+bit flip:32398
+i:19,j16
+Target: 20
+Target PFN: 0x128995
+bit flip:30861
+i:20,j17
+Target: 21
+Target PFN: 0x128aa7
+bit flip:30958
+i:21,j18
+Target: 22
+Target PFN: 0x128abd
+bit flip:30058
+i:22,j19
+Target: 23
+Target PFN: 0x128bba
+bit flip:30801
+i:23,j20
+Target: 27
+Target PFN: 0x128d14
+bit flip:30889
+i:27,j21
+Target: 32
+Target PFN: 0x128f3c
+bit flip:31371
+i:32,j22
+Target: 35
+Target PFN: 0x129010
+bit flip:32055
+i:35,j23
+Target: 36
+Target PFN: 0x129141
+bit flip:30318
+i:36,j24
+Target: 37
+Target PFN: 0x129142
+bit flip:32701
+i:37,j25
+Target: 38
+Target PFN: 0x12918f
+bit flip:32455
+i:38,j26
+Target: 39
+Target PFN: 0x1291c8
+bit flip:32383
+i:39,j27
+Target: 40
+Target PFN: 0x1291c9
+bit flip:30829
+i:40,j28
+Target: 41
+Target PFN: 0x1291d8
+bit flip:31015
+i:41,j29
+Target: 42
+Target PFN: 0x129230
+bit flip:30765
+i:42,j30
+Target: 43
+Target PFN: 0x129232
+bit flip:31776
+i:43,j31
+Target: 44
+Target PFN: 0x1292ad
+bit flip:31018
+i:44,j32
+Target: 45
+Target PFN: 0x1292ac
+bit flip:32694
+i:45,j33
+Target: 46
+Target PFN: 0x1292eb
+bit flip:32224
+i:46,j34
+Target: 47
+Target PFN: 0x129408
+bit flip:32549
+i:47,j35
+Target: 48
+Target PFN: 0x12949e
+bit flip:31773
+i:48,j36
+Target: 49
+Target PFN: 0x12949d
+bit flip:32656
+i:49,j37
+Target: 50
+Target PFN: 0x129495
+bit flip:30003
+i:50,j38
+Target: 53
+Target PFN: 0x129588
+bit flip:30860
+i:53,j39
+Target: 54
+Target PFN: 0x129592
+bit flip:32653
+i:54,j40
+Target: 55
+Target PFN: 0x1296a9
+bit flip:31349
+i:55,j41
+Target: 56
+Target PFN: 0x12976c
+bit flip:32398
+i:56,j42
+Target: 57
+Target PFN: 0x1297a4
+bit flip:31114
+i:57,j43
+Target: 58
+Target PFN: 0x12980c
+bit flip:32133
+i:58,j44
+Target: 59
+Target PFN: 0x1298c1
+bit flip:31128
+i:59,j45
+Target: 60
+Target PFN: 0x12991e
+bit flip:30707
+i:60,j46
+Target: 61
+Target PFN: 0x129919
+bit flip:32630
+i:61,j47
+Target: 62
+Target PFN: 0x129996
+bit flip:32750
+i:62,j48
+Target: 63
+Target PFN: 0x1299d8
+bit flip:31443
+i:63,j49
+Target: 64
+Target PFN: 0x129a20
+bit flip:32309
+i:64,j50
+Target: 65
+Target PFN: 0x129af1
+bit flip:30834
+i:65,j51
+Target: 66
+Target PFN: 0x129bac
+bit flip:31716
+i:66,j52
+Target: 67
+Target PFN: 0x129bb0
+bit flip:32579
+i:67,j53
+Target: 68
+Target PFN: 0x129c1c
+bit flip:31560
+i:68,j54
+Target: 69
+Target PFN: 0x129c1f
+bit flip:30545
+i:69,j55
+Target: 70
+Target PFN: 0x129c10
+bit flip:30007
+i:70,j56
+Target: 71
+Target PFN: 0x129c11
+bit flip:30829
+i:71,j57
+Target: 72
+Target PFN: 0x129c42
+bit flip:32406
+i:72,j58
+Target: 75
+Target PFN: 0x129eb7
+bit flip:30611
+i:75,j59
+Target: 76
+Target PFN: 0x129ef4
+bit flip:29979
+i:76,j60
+Target: 90
+Target PFN: 0x12a8ce
+bit flip:30414
+i:90,j61
+Target: 91
+Target PFN: 0x12a905
+bit flip:32458
+i:91,j62
+Target: 92
+Target PFN: 0x12a954
+bit flip:30061
+i:92,j63
+Target: 93
+Target PFN: 0x12a9da
+bit flip:32535
+i:93,j64
+Target: 94
+Target PFN: 0x12aa7d
+bit flip:32692
+i:94,j65
+Target: 95
+Target PFN: 0x12aafc
+bit flip:32565
+i:95,j66
+Target: 96
+Target PFN: 0x12ab7a
+bit flip:30801
+i:96,j67
+Target: 98
+Target PFN: 0x12ad9a
+bit flip:30480
+i:98,j68
+Target: 99
+Target PFN: 0x12ad9b
+bit flip:31117
+i:99,j69
+Target: 100
+Target PFN: 0x12ae2c
+bit flip:32672
+i:100,j70
+Target: 101
+Target PFN: 0x12ae62
+bit flip:30471
+i:101,j71
+Target: 102
+Target PFN: 0x12ae77
+bit flip:32609
+i:102,j72
+Target: 103
+Target PFN: 0x12aea3
+bit flip:32679
+i:103,j73
+Target: 104
+Target PFN: 0x12aee5
+bit flip:32019
+i:104,j74
+Target: 105
+Target PFN: 0x12aef8
+bit flip:31257
+i:105,j75
+Target: 106
+Target PFN: 0x12af39
+bit flip:30069
+i:106,j76
+Target: 108
+Target PFN: 0x12af7f
+bit flip:31846
+i:108,j77
+Target: 114
+Target PFN: 0x12b4c6
+bit flip:32750
+i:114,j78
+Target: 115
+Target PFN: 0x12b4c3
+bit flip:31396
+i:115,j79
+All pages found...
+Starting hammering...
+1
+Im going to hammer 0x1292ad
+hammer!
+Killed
+finish munmaping
+finish 3
+Starting program...
+28
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 1
+Target PFN: 0x1ff8d2
+bit flip:31137
+i:1,j0
+Target: 3
+Target PFN: 0x3d7b3b
+bit flip:32054
+i:3,j1
+Target: 17
+Target PFN: 0x3da940
+bit flip:30028
+i:17,j2
+Target: 20
+Target PFN: 0x3e86e4
+bit flip:30861
+i:20,j3
+Target: 23
+Target PFN: 0x3584d3
+bit flip:30801
+i:23,j4
+Target: 24
+Target PFN: 0x2ec6b9
+bit flip:32647
+i:24,j5
+Target: 33
+Target PFN: 0x3cf98c
+bit flip:30108
+i:33,j6
+Target: 36
+Target PFN: 0x22e88b
+bit flip:30318
+i:36,j7
+Target: 56
+Target PFN: 0x3ac88c
+bit flip:32398
+i:56,j8
+Target: 59
+Target PFN: 0x34a228
+bit flip:31128
+i:59,j9
+Target: 64
+Target PFN: 0x2dd773
+bit flip:32309
+i:64,j10
+Target: 68
+Target PFN: 0x4195ca
+bit flip:31560
+i:68,j11
+Target: 89
+Target PFN: 0x2e07be
+bit flip:32755
+i:89,j12
+Target: 90
+Target PFN: 0x30d958
+bit flip:30414
+i:90,j13
+Target: 91
+Target PFN: 0x30d95a
+bit flip:32458
+i:91,j14
+Target: 96
+Target PFN: 0x384942
+bit flip:30801
+i:96,j15
+Target: 97
+Target PFN: 0x221be2
+bit flip:32467
+i:97,j16
+Target: 98
+Target PFN: 0x2b0bbb
+bit flip:30480
+i:98,j17
+Target: 99
+Target PFN: 0x2ee23f
+bit flip:31117
+i:99,j18
+Target: 100
+Target PFN: 0x2da804
+bit flip:32672
+i:100,j19
+Target: 101
+Target PFN: 0x28a6bf
+bit flip:30471
+i:101,j20
+Target: 103
+Target PFN: 0x2282b8
+bit flip:32679
+i:103,j21
+Target: 106
+Target PFN: 0x29e4d4
+bit flip:30069
+i:106,j22
+Target: 108
+Target PFN: 0x29e4dd
+bit flip:31846
+i:108,j23
+Target: 110
+Target PFN: 0x35c2ed
+bit flip:32662
+i:110,j24
+Target: 112
+Target PFN: 0x28e08a
+bit flip:30322
+i:112,j25
+Target: 113
+Target PFN: 0x383220
+bit flip:30097
+i:113,j26
+Target: 114
+Target PFN: 0x3ae378
+bit flip:32750
+i:114,j27
+Target: 118
+Target PFN: 0x406547
+bit flip:30984
+i:118,j28
+Target: 119
+Target PFN: 0x406548
+bit flip:31701
+i:119,j29
+Target: 124
+Target PFN: 0x414f31
+bit flip:32490
+i:124,j30
+Target: 125
+Target PFN: 0x414f33
+bit flip:31161
+i:125,j31
+Target: 128
+Target PFN: 0x25c55d
+bit flip:31114
+i:128,j32
+Target: 132
+Target PFN: 0x2039c4
+bit flip:32044
+i:132,j33
+Target: 133
+Target PFN: 0x2039cf
+bit flip:32444
+i:133,j34
+Target: 134
+Target PFN: 0x2039c8
+bit flip:32448
+i:134,j35
+Target: 150
+Target PFN: 0x404269
+bit flip:30945
+i:150,j36
+Target: 151
+Target PFN: 0x40426b
+bit flip:32241
+i:151,j37
+Target: 153
+Target PFN: 0x3e02af
+bit flip:30656
+i:153,j38
+Target: 157
+Target PFN: 0x41b769
+bit flip:32463
+i:157,j39
+Target: 171
+Target PFN: 0x433d4c
+bit flip:32339
+i:171,j40
+Target: 178
+Target PFN: 0x287d46
+bit flip:30119
+i:178,j41
+Target: 183
+Target PFN: 0x2ea9d4
+bit flip:31120
+i:183,j42
+Target: 184
+Target PFN: 0x2ea9d7
+bit flip:32429
+i:184,j43
+Target: 188
+Target PFN: 0x27362a
+bit flip:31128
+i:188,j44
+Target: 189
+Target PFN: 0x396a3d
+bit flip:32627
+i:189,j45
+Target: 190
+Target PFN: 0x396a3e
+bit flip:32747
+i:190,j46
+Target: 191
+Target PFN: 0x396a3f
+bit flip:30263
+i:191,j47
+Target: 194
+Target PFN: 0x39e2ae
+bit flip:32579
+i:194,j48
+Target: 196
+Target PFN: 0x312905
+bit flip:30545
+i:196,j49
+Target: 197
+Target PFN: 0x22b80f
+bit flip:32179
+i:197,j50
+Target: 199
+Target PFN: 0x36063b
+bit flip:30730
+i:199,j51
+Target: 204
+Target PFN: 0x410b2a
+bit flip:32460
+i:204,j52
+Target: 205
+Target PFN: 0x204885
+bit flip:32741
+i:205,j53
+Target: 206
+Target PFN: 0x204886
+bit flip:31980
+i:206,j54
+Target: 207
+Target PFN: 0x204880
+bit flip:30993
+i:207,j55
+Target: 208
+Target PFN: 0x3b75c4
+bit flip:32649
+i:208,j56
+Target: 209
+Target PFN: 0x283454
+bit flip:32399
+i:209,j57
+Target: 210
+Target PFN: 0x36a6f8
+bit flip:31594
+i:210,j58
+Target: 211
+Target PFN: 0x3879cd
+bit flip:31486
+i:211,j59
+Target: 212
+Target PFN: 0x3879c8
+bit flip:31962
+i:212,j60
+Target: 213
+Target PFN: 0x39bd44
+bit flip:30050
+i:213,j61
+Target: 214
+Target PFN: 0x39bd47
+bit flip:32031
+i:214,j62
+Target: 215
+Target PFN: 0x2a8ba8
+bit flip:31975
+i:215,j63
+Target: 216
+Target PFN: 0x2996e4
+bit flip:31957
+i:216,j64
+Target: 217
+Target PFN: 0x2996f9
+bit flip:29955
+i:217,j65
+Target: 223
+Target PFN: 0x431d5f
+bit flip:32290
+i:223,j66
+Target: 224
+Target PFN: 0x40eb22
+bit flip:31975
+i:224,j67
+Target: 225
+Target PFN: 0x3c73eb
+bit flip:32398
+i:225,j68
+Target: 226
+Target PFN: 0x326f35
+bit flip:32506
+i:226,j69
+Target: 235
+Target PFN: 0x426c5c
+bit flip:31929
+i:235,j70
+Target: 240
+Target PFN: 0x21341a
+bit flip:32591
+i:240,j71
+Target: 241
+Target PFN: 0x213405
+bit flip:30455
+i:241,j72
+Target: 242
+Target PFN: 0x213406
+bit flip:31956
+i:242,j73
+Target: 245
+Target PFN: 0x3c11c5
+bit flip:32560
+i:245,j74
+Target: 248
+Target PFN: 0x2a250c
+bit flip:30160
+i:248,j75
+Target: 249
+Target PFN: 0x2c72fb
+bit flip:30095
+i:249,j76
+Target: 252
+Target PFN: 0x357818
+bit flip:32665
+i:252,j77
+Target: 253
+Target PFN: 0x2cc456
+bit flip:31200
+i:253,j78
+Target: 254
+Target PFN: 0x3d25d2
+bit flip:30130
+i:254,j79
+All pages found...
+Starting hammering...
+fpip addr: c 0x7fecf70a5b20 size: 1024
+s addr: 0x3d60ff
+c addr: 0x7fecf70a5b20
+PFN:0x414f33
+send kill -15
+send kill -15
+21724
+finish munmaping
+1
+Im going to hammer 0x414f33
+hammer!
+Starting program...
+3135
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 0
+Target PFN: 0x12f22c
+bit flip:30660
+i:0,j0
+Target: 116
+Target PFN: 0x13a729
+bit flip:32332
+i:116,j1
+Target: 117
+Target PFN: 0x13a72a
+bit flip:32498
+i:117,j2
+Target: 118
+Target PFN: 0x13c454
+bit flip:30984
+i:118,j3
+Target: 119
+Target PFN: 0x13c500
+bit flip:31701
+i:119,j4
+Target: 122
+Target PFN: 0x13c622
+bit flip:30378
+i:122,j5
+Target: 146
+Target PFN: 0x13e442
+bit flip:30280
+i:146,j6
+Target: 147
+Target PFN: 0x13e488
+bit flip:30001
+i:147,j7
+Target: 168
+Target PFN: 0x13eead
+bit flip:32700
+i:168,j8
+Target: 183
+Target PFN: 0x13f8c7
+bit flip:31120
+i:183,j9
+Target: 189
+Target PFN: 0x13fb6d
+bit flip:32627
+i:189,j10
+Target: 213
+Target PFN: 0x140f2e
+bit flip:30050
+i:213,j11
+Target: 222
+Target PFN: 0x141274
+bit flip:32363
+i:222,j12
+Target: 224
+Target PFN: 0x14133a
+bit flip:31975
+i:224,j13
+Target: 225
+Target PFN: 0x14137a
+bit flip:32398
+i:225,j14
+Target: 228
+Target PFN: 0x141484
+bit flip:32705
+i:228,j15
+Target: 229
+Target PFN: 0x141508
+bit flip:30111
+i:229,j16
+Target: 230
+Target PFN: 0x141551
+bit flip:32686
+i:230,j17
+Target: 231
+Target PFN: 0x14158c
+bit flip:32041
+i:231,j18
+Target: 232
+Target PFN: 0x14158d
+bit flip:31277
+i:232,j19
+Target: 233
+Target PFN: 0x14158e
+bit flip:31715
+i:233,j20
+Target: 234
+Target PFN: 0x141599
+bit flip:30113
+i:234,j21
+Target: 235
+Target PFN: 0x1415da
+bit flip:31929
+i:235,j22
+Target: 237
+Target PFN: 0x1416bf
+bit flip:32149
+i:237,j23
+Target: 238
+Target PFN: 0x141729
+bit flip:32104
+i:238,j24
+Target: 239
+Target PFN: 0x1417a9
+bit flip:30580
+i:239,j25
+Target: 244
+Target PFN: 0x14190b
+bit flip:32394
+i:244,j26
+Target: 246
+Target PFN: 0x141af8
+bit flip:32629
+i:246,j27
+Target: 249
+Target PFN: 0x141c80
+bit flip:30095
+i:249,j28
+Target: 250
+Target PFN: 0x141d9e
+bit flip:32268
+i:250,j29
+Target: 251
+Target PFN: 0x141d9f
+bit flip:30155
+i:251,j30
+Target: 254
+Target PFN: 0x141e63
+bit flip:30130
+i:254,j31
+Target: 279
+Target PFN: 0x1426ad
+bit flip:31389
+i:279,j32
+Target: 280
+Target PFN: 0x1426e1
+bit flip:30693
+i:280,j33
+Target: 281
+Target PFN: 0x1426e2
+bit flip:32425
+i:281,j34
+Target: 284
+Target PFN: 0x142bb8
+bit flip:32402
+i:284,j35
+Target: 285
+Target PFN: 0x144266
+bit flip:32297
+i:285,j36
+Target: 287
+Target PFN: 0x1442a9
+bit flip:31933
+i:287,j37
+Target: 288
+Target PFN: 0x1442aa
+bit flip:32372
+i:288,j38
+Target: 290
+Target PFN: 0x14436b
+bit flip:32686
+i:290,j39
+Target: 292
+Target PFN: 0x1443b7
+bit flip:32597
+i:292,j40
+Target: 308
+Target PFN: 0x1d5054
+bit flip:32275
+i:308,j41
+Target: 309
+Target PFN: 0x1d5104
+bit flip:31863
+i:309,j42
+Target: 311
+Target PFN: 0x1d522a
+bit flip:30027
+i:311,j43
+Target: 315
+Target PFN: 0x1d53a3
+bit flip:32294
+i:315,j44
+Target: 316
+Target PFN: 0x1d53b4
+bit flip:30345
+i:316,j45
+Target: 317
+Target PFN: 0x1d53b6
+bit flip:32380
+i:317,j46
+Target: 321
+Target PFN: 0x1d558d
+bit flip:32330
+i:321,j47
+Target: 325
+Target PFN: 0x1d56b3
+bit flip:30931
+i:325,j48
+Target: 326
+Target PFN: 0x1d5730
+bit flip:32507
+i:326,j49
+Target: 327
+Target PFN: 0x1d5725
+bit flip:31009
+i:327,j50
+Target: 330
+Target PFN: 0x1d591a
+bit flip:30599
+i:330,j51
+Target: 331
+Target PFN: 0x1d599e
+bit flip:31889
+i:331,j52
+Target: 333
+Target PFN: 0x1d5b39
+bit flip:30945
+i:333,j53
+Target: 334
+Target PFN: 0x1d5ba4
+bit flip:31924
+i:334,j54
+Target: 335
+Target PFN: 0x1d5ba7
+bit flip:32705
+i:335,j55
+Target: 344
+Target PFN: 0x1d5e74
+bit flip:31121
+i:344,j56
+Target: 345
+Target PFN: 0x1d5e7f
+bit flip:32592
+i:345,j57
+Target: 350
+Target PFN: 0x1d60c4
+bit flip:32498
+i:350,j58
+Target: 351
+Target PFN: 0x1d60d1
+bit flip:30615
+i:351,j59
+Target: 354
+Target PFN: 0x1d610e
+bit flip:32447
+i:354,j60
+Target: 355
+Target PFN: 0x1d61d8
+bit flip:32176
+i:355,j61
+Target: 356
+Target PFN: 0x1d6237
+bit flip:31652
+i:356,j62
+Target: 357
+Target PFN: 0x1d637c
+bit flip:31067
+i:357,j63
+Target: 358
+Target PFN: 0x1d637e
+bit flip:32639
+i:358,j64
+Target: 359
+Target PFN: 0x1d640a
+bit flip:31148
+i:359,j65
+Target: 360
+Target PFN: 0x1d648a
+bit flip:31364
+i:360,j66
+Target: 361
+Target PFN: 0x1d65d8
+bit flip:30043
+i:361,j67
+Target: 362
+Target PFN: 0x1d65da
+bit flip:32598
+i:362,j68
+Target: 363
+Target PFN: 0x1d66a7
+bit flip:32650
+i:363,j69
+Target: 364
+Target PFN: 0x1d66b6
+bit flip:30926
+i:364,j70
+Target: 365
+Target PFN: 0x1d66b3
+bit flip:32471
+i:365,j71
+Target: 367
+Target PFN: 0x1d68df
+bit flip:31917
+i:367,j72
+Target: 368
+Target PFN: 0x1d6991
+bit flip:32401
+i:368,j73
+Target: 369
+Target PFN: 0x1d69ce
+bit flip:30289
+i:369,j74
+Target: 372
+Target PFN: 0x1d6af9
+bit flip:30707
+i:372,j75
+Target: 373
+Target PFN: 0x1d6b2d
+bit flip:30432
+i:373,j76
+Target: 374
+Target PFN: 0x1d6bad
+bit flip:32526
+i:374,j77
+Target: 375
+Target PFN: 0x1d6bb4
+bit flip:32110
+i:375,j78
+Target: 381
+Target PFN: 0x1d6dcc
+bit flip:31974
+i:381,j79
+All pages found...
+Starting hammering...
+fpip addr: c 0x7f6a61ca5b20 size: 1024
+s addr: 0x3674bc
+c addr: 0x7f6a61ca5b20
+PFN:0x141e63
+send kill -15
+send kill -15
+tsc2-tsc1=17934, tsc3-tsc2=8088
+finish munmaping
+1
+Im going to hammer 0x141e63
+hammer!
+Starting program...
+1039
+Stack size is 200
+get 1881 pages!
+MemorySize: 8305299456
+Finished setting up memory...
+Searching for page VAs...
+Done searching...
+
+Target: 0
+Target PFN: 0x12811a
+bit flip:30660
+i:0,j0
+Target: 1
+Target PFN: 0x128198
+bit flip:31137
+i:1,j1
+Target: 2
+Target PFN: 0x128408
+bit flip:30423
+i:2,j2
+Target: 5
+Target PFN: 0x1284d8
+bit flip:32261
+i:5,j3
+Target: 6
+Target PFN: 0x1285d2
+bit flip:32736
+i:6,j4
+Target: 7
+Target PFN: 0x1285d3
+bit flip:31412
+i:7,j5
+Target: 8
+Target PFN: 0x128671
+bit flip:30349
+i:8,j6
+Target: 9
+Target PFN: 0x128722
+bit flip:32361
+i:9,j7
+Target: 10
+Target PFN: 0x128803
+bit flip:30798
+i:10,j8
+Target: 11
+Target PFN: 0x128850
+bit flip:32507
+i:11,j9
+Target: 12
+Target PFN: 0x128882
+bit flip:30768
+i:12,j10
+Target: 13
+Target PFN: 0x128995
+bit flip:31119
+i:13,j11
+Target: 14
+Target PFN: 0x128aa7
+bit flip:31346
+i:14,j12
+Target: 15
+Target PFN: 0x128abd
+bit flip:30698
+i:15,j13
+Target: 16
+Target PFN: 0x128bba
+bit flip:30822
+i:16,j14
+Target: 20
+Target PFN: 0x128d14
+bit flip:30861
+i:20,j15
+Target: 28
+Target PFN: 0x129010
+bit flip:29991
+i:28,j16
+Target: 29
+Target PFN: 0x129141
+bit flip:32614
+i:29,j17
+Target: 30
+Target PFN: 0x129142
+bit flip:30673
+i:30,j18
+Target: 31
+Target PFN: 0x12918f
+bit flip:32662
+i:31,j19
+Target: 32
+Target PFN: 0x1291c8
+bit flip:31371
+i:32,j20
+Target: 33
+Target PFN: 0x1291c9
+bit flip:30108
+i:33,j21
+Target: 34
+Target PFN: 0x1291d8
+bit flip:32073
+i:34,j22
+Target: 35
+Target PFN: 0x129230
+bit flip:32055
+i:35,j23
+Target: 36
+Target PFN: 0x129232
+bit flip:30318
+i:36,j24
+Target: 37
+Target PFN: 0x1292ad
+bit flip:32701
+i:37,j25
+Target: 38
+Target PFN: 0x1292ac
+bit flip:32455
+i:38,j26
+Target: 39
+Target PFN: 0x1292eb
+bit flip:32383
+i:39,j27
+Target: 40
+Target PFN: 0x129408
+bit flip:30829
+i:40,j28
+Target: 41
+Target PFN: 0x12949e
+bit flip:31015
+i:41,j29
+Target: 42
+Target PFN: 0x12949d
+bit flip:30765
+i:42,j30
+Target: 43
+Target PFN: 0x129495
+bit flip:31776
+i:43,j31
+Target: 46
+Target PFN: 0x129588
+bit flip:32224
+i:46,j32
+Target: 47
+Target PFN: 0x129592
+bit flip:32549
+i:47,j33
+Target: 48
+Target PFN: 0x1296a9
+bit flip:31773
+i:48,j34
+Target: 49
+Target PFN: 0x12976c
+bit flip:32656
+i:49,j35
+Target: 50
+Target PFN: 0x1297a4
+bit flip:30003
+i:50,j36
+Target: 51
+Target PFN: 0x12980c
+bit flip:32579
+i:51,j37
+Target: 52
+Target PFN: 0x1298c1
+bit flip:32463
+i:52,j38
+Target: 53
+Target PFN: 0x12991e
+bit flip:30860
+i:53,j39
+Target: 54
+Target PFN: 0x129919
+bit flip:32653
+i:54,j40
+Target: 55
+Target PFN: 0x129996
+bit flip:31349
+i:55,j41
+Target: 56
+Target PFN: 0x1299d8
+bit flip:32398
+i:56,j42
+Target: 57
+Target PFN: 0x129a20
+bit flip:31114
+i:57,j43
+Target: 58
+Target PFN: 0x129af1
+bit flip:32133
+i:58,j44
+Target: 59
+Target PFN: 0x129bac
+bit flip:31128
+i:59,j45
+Target: 60
+Target PFN: 0x129bb0
+bit flip:30707
+i:60,j46
+Target: 61
+Target PFN: 0x129c1c
+bit flip:32630
+i:61,j47
+Target: 62
+Target PFN: 0x129c1f
+bit flip:32750
+i:62,j48
+Target: 63
+Target PFN: 0x129c10
+bit flip:31443
+i:63,j49
+Target: 64
+Target PFN: 0x129c11
+bit flip:32309
+i:64,j50
+Target: 65
+Target PFN: 0x129c42
+bit flip:30834
+i:65,j51
+Target: 68
+Target PFN: 0x129eb7
+bit flip:31560
+i:68,j52
+Target: 69
+Target PFN: 0x129ef4
+bit flip:30545
+i:69,j53
+Target: 83
+Target PFN: 0x12a8ce
+bit flip:32763
+i:83,j54
+Target: 84
+Target PFN: 0x12a905
+bit flip:30952
+i:84,j55
+Target: 85
+Target PFN: 0x12a954
+bit flip:30642
+i:85,j56
+Target: 86
+Target PFN: 0x12a9da
+bit flip:32699
+i:86,j57
+Target: 87
+Target PFN: 0x12aa7d
+bit flip:32723
+i:87,j58
+Target: 88
+Target PFN: 0x12aafc
+bit flip:32715
+i:88,j59
+Target: 89
+Target PFN: 0x12ab7a
+bit flip:32755
+i:89,j60
+Target: 91
+Target PFN: 0x12ad9a
+bit flip:32458
+i:91,j61
+Target: 92
+Target PFN: 0x12ad9b
+bit flip:30061
+i:92,j62
+Target: 93
+Target PFN: 0x12ae2c
+bit flip:32535
+i:93,j63
+Target: 94
+Target PFN: 0x12ae62
+bit flip:32692
+i:94,j64
+Target: 95
+Target PFN: 0x12ae77
+bit flip:32565
+i:95,j65
+Target: 96
+Target PFN: 0x12aea3
+bit flip:30801
+i:96,j66
+Target: 97
+Target PFN: 0x12aee5
+bit flip:32467
+i:97,j67
+Target: 98
+Target PFN: 0x12aef8
+bit flip:30480
+i:98,j68
+Target: 99
+Target PFN: 0x12af39
+bit flip:31117
+i:99,j69
+Target: 101
+Target PFN: 0x12af7f
+bit flip:30471
+i:101,j70
+Target: 107
+Target PFN: 0x12b4c6
+bit flip:32420
+i:107,j71
+Target: 108
+Target PFN: 0x12b4c3
+bit flip:31846
+i:108,j72
+Target: 109
+Target PFN: 0x12b580
+bit flip:31300
+i:109,j73
+Target: 110
+Target PFN: 0x12b5c2
+bit flip:32662
+i:110,j74
+Target: 111
+Target PFN: 0x12b5d4
+bit flip:30381
+i:111,j75
+Target: 112
+Target PFN: 0x12b5d5
+bit flip:30322
+i:112,j76
+Target: 113
+Target PFN: 0x12b629
+bit flip:30097
+i:113,j77
+Target: 116
+Target PFN: 0x12b884
+bit flip:32332
+i:116,j78
+Target: 118
+Target PFN: 0x12bb2a
+bit flip:30984
+i:118,j79
+All pages found...
+Starting hammering...
+fpip addr: c 0x7f56b5ea5b20 size: 1024
+s addr: 0x306182
+c addr: 0x7f56b5ea5b20
+PFN:0x129592
+send kill -15
+send kill -15
+tsc2-tsc1=16072, tsc3-tsc2=11068
+finish munmaping
+1
+Im going to hammer 0x129592
+hammer!
+finish 4
